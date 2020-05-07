@@ -1,0 +1,722 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Aliases: anubis, nautilusbot
+
+# Reference: https://blog.trendmicro.com/trendlabs-security-intelligence/google-play-apps-drop-anubis-banking-malware-use-motion-based-evasion-tactics/
+
+areadozemode.space
+aserogeege.space
+dingpsounda.space
+dosandiq.space
+firstdoxed.space
+hdfuckedin18.top
+nihaobrazzzahit.top
+oauth3.html5100.com
+privateanbshouse.space
+project2anub.xyz
+projectpredator.space
+protect4juls.space
+scradm.in
+seconddoxed.space
+selectnew25mode.space
+taiprotectsq.xyz
+twethujsnu.cc
+uwannaplaygame.space
+wantddantiprot.space
+wijariief.space
+
+# Reference: https://twitter.com/0xabc0/status/1072523751902842882
+
+androidclay.net
+companiesaasental.work
+dawrawscyas.com
+fhasadadu.in
+finatop25.space
+justdomain.space
+
+# Reference: https://www.fortinet.com/blog/threat-research/new-wave-bianlian-malware.html
+
+tombaba.club
+tomcatdomains.page.link
+
+# Reference: https://blog.trendmicro.com/trendlabs-security-intelligence/anubis-android-malware-returns-with-over-17000-samples/
+# Reference: https://otx.alienvault.com/pulse/5d2395b2c7176db2a979b938
+
+blackleaf.top
+firstdoxed.space
+ktosdelaetskrintotpidor.com
+lskbfidsbvkjsfgakfjsdffsdfupdate.net	
+marksteylor.us
+ndudetto.top 
+playclints1.space
+sositehuypidarasi.com
+
+# Reference: https://twitter.com/PRODAFT/status/1108263404781912064
+
+colbrte.top
+
+# Reference: https://twitter.com/PRODAFT/status/1110807911280922624
+
+boxtools.net
+
+# Reference: https://twitter.com/ViriBack/status/1139714810092904448
+
+hannnnax.top
+
+# Reference: https://twitter.com/0bfusCat/status/1191293661415428096
+# Reference: https://www.virustotal.com/gui/ip-address/27.254.33.56/relations
+# Reference: https://www.virustotal.com/gui/ip-address/35.188.192.191/relations
+
+http://27.254.33.56
+http://35.188.192.191
+
+# Reference: https://www.virustotal.com/gui/domain/yuyuhakusho.info/relations
+# Reference: https://www.virustotal.com/gui/file/3fb55b8a5e613c3eb8354796ab3e0c4927686568da00815fa6af1e08ce01c571/detection
+
+yuyuhakusho.info
+
+# Reference: https://www.virustotal.com/gui/file/5b48d6813adf43b784b273ecc93d1ca071b79ac3b0d7ab3579e16f791e8d5c34/detection
+
+vityamuibk.temp.swtest.ru
+
+# Reference: https://www.virustotal.com/gui/file/d787a51abfa7113c0b7260793ab54fe6fd3c0121d6d75ff57af0064deab6fd24/detection
+
+svetaperov.temp.swtest.ru
+
+# Reference: https://www.virustotal.com/gui/domain/sss17sss.ru/relations
+
+sss17sss.ru
+
+# Reference: https://www.virustotal.com/gui/domain/sss10sss.ru/relations
+
+sss10sss.ru
+
+# Reference: https://www.virustotal.com/gui/domain/3n0rmous.xyz/relations
+
+3n0rmous.xyz
+
+# Reference: https://www.virustotal.com/gui/ip-address/47.56.114.152/relations
+
+aasd.xyz
+firebug.online
+pozhsoyuz.site
+
+# Reference: https://twitter.com/dubstard/status/1237282412054413312
+# Reference: https://twitter.com/LukasStefanko/status/1237300467161538560
+
+santander-movilsecure.info
+r7ssh1ng.xyz
+
+# Reference: https://twitter.com/500mk500/status/1237402626532278275
+
+zxc.global
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1238375580057419778
+
+coronaviruscovid19-information.com
+
+# Reference: https://twitter.com/1ZRR4H/status/1239751485312970753
+
+coronavirus-apps.com
+
+# Reference: https://twitter.com/ESETresearch/status/1239820488110718976
+
+coronavirusapp.site
+
+# Reference: https://twitter.com/LukasStefanko/status/1239899416598843393
+
+update-apk.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/8.208.19.185/relations
+
+rootbot.ug
+vor.ug
+
+# Reference: https://twitter.com/m0br3v/status/1243822579196088320
+# Reference: https://twitter.com/LukasStefanko/status/1257696107406204928
+
+v-lert.com
+mandamientos.ga
+
+# Reference: https://twitter.com/DrStache_/status/1244580484073623552
+
+botnew.ug
+
+# Reference: https://twitter.com/DrStache_/status/1244699819500806147
+# Reference: https://pastebin.com/u0tmn67x
+
+http///185.117.90.9
+http://147.135.170.169
+http://162.241.65.149
+http://185.20.184.50
+http://194.58.92.30
+http://195.230.23.26
+http://198.23.236.114
+http://209.250.239.168
+http://217.107.34.192
+http://217.12.208.13
+http://34.90.99.193
+http://45.159.188.44
+http://46.17.104.140
+http://5.39.217.240
+http://5.45.70.149
+http://54.38.175.231
+http://63.250.42.96
+http://63.250.45.48
+http://94.103.94.56
+http://95.217.32.209
+adsenseservices.online
+aliexpress.spb.ru
+aloproton.top
+bestmix.ga
+yobit.press
+superbeer1989.top
+
+# Reference: https://twitter.com/ReBensk/status/1243895116097560587
+
+dw.mailbux.site
+vestwareta.temp.swtest.ru
+
+# Reference: https://twitter.com/ReBensk/status/1243889895136997376
+
+betaavantajlari.com
+
+# Reference: https://twitter.com/ReBensk/status/1242820463031726080
+
+weatherr.xyz
+
+# Reference: https://twitter.com/apkdetect/status/1246459199460171776
+
+vestna1975.xyz
+
+# Reference: https://www.virustotal.com/gui/domain/hertzo.xyz/relations
+
+hertzo.xyz
+
+# Reference: https://twitter.com/ReBensk/status/1249645490192281601
+
+rapmusicstyle.xyz
+
+# Reference: https://twitter.com/pr3wtd/status/1250096277276315650
+
+subesizislemlercom.cf
+
+# Reference: https://www.virustotal.com/gui/file/0ab6fb467983a230a2bff00c29bfcbaee76cfe2dfa2ec71d77570e56f0ab2e0b/detection
+
+your-truth.club
+
+# Reference: https://www.virustotal.com/gui/domain/sytkalona.com/relations
+
+sytkalona.com
+
+# Reference: https://twitter.com/SmashTheKernel/status/1250788303512756225
+
+covid-saglikbakanligi.com
+
+# Reference: https://twitter.com/LukasStefanko/status/1250815254914895875
+
+http://192.243.102.56
+
+# Reference: https://twitter.com/ReBensk/status/1251202340830556161
+# Reference: https://www.virustotal.com/gui/domain/medikalipla34zza11.com/relations
+
+keeplive2.cc
+medikalipla34zza11.com
+
+# Reference: https://twitter.com/SmashTheKernel/status/1251204405506039808
+
+ozkandan.com
+
+# Reference: https://twitter.com/SmashTheKernel/status/1251546640806219780
+
+evndekalkap8gb.com
+
+# Reference: https://twitter.com/SmashTheKernel/status/1251592343117053952
+
+evdekal20gbdestektr.com
+
+# Reference: https://twitter.com/dubstard/status/1251745907147710464
+
+xn--evdekalsengblardusunme-0ld.com
+
+# Reference: https://twitter.com/SmashTheKernel/status/1251958264700510210
+
+gazolcer.com
+hayatevesigarturkiye.com
+
+# Reference: https://twitter.com/SmashTheKernel/status/1251969918075113474
+# Reference: https://www.virustotal.com/gui/file/5a5ec74af1b5638f343aafb27d79f55c6af366a31d361beaab027865ad1c8a19/detection
+
+hayatevesigarturkcell.com
+subesizbankabasvurusu.ml
+
+# Reference: https://twitter.com/malwrhunterteam/status/1252549899381608449
+
+ortakoporotör.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1252907971866251269
+
+hediyegapsinternet.com
+tryagain.beget.tech
+
+# Reference: https://twitter.com/mertcangokgoz/status/1252999575188758530
+
+dedecom.ga
+sosyaldestekcom.ga
+
+# Reference: https://twitter.com/ReBensk/status/1253185302673289217
+
+malgagarsos.sc.ug
+worlgarebudd.ga
+
+# Reference: https://twitter.com/mertcangokgoz/status/1253244997530419201
+
+evdekalan20gbkazaniyor.com
+
+# Reference: https://twitter.com/ReBensk/status/1253303545681625091
+
+evdeinternetinvar.com
+
+# Reference: https://twitter.com/ecarlesi/status/1253441825593085953
+# Reference: https://twitter.com/500mk500/status/1253446081029046273
+# Reference: https://www.virustotal.com/gui/file/707ecce8a160caf203c624629b0fa207cf6b57a1929aa795a9631129cc2949a4/detection
+
+sabunlu.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1253606439106600960
+
+hediyeinternetpaketim.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1253608999024558081
+
+evdekal20kapgb.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1253610464950603776
+
+hayatevesigar-10gbnetkazan.com
+
+# Reference: https://twitter.com/ReBensk/status/1254035434436308992
+
+hayatevesigarturkiyem.com
+subesizbankabasvurusu.ml
+
+# Reference: https://twitter.com/AdemOzcan68/status/1254507257427001345
+
+10bwr.com
+sendekurtul.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1254851984873738242
+# Reference: https://www.virustotal.com/gui/file/bdfff045b60c28c2a8b8bbc21affd27dac725b506aaa8be1c891ce9aea3242f8/detection
+
+durancamberk.com
+kampanyainternetbasvuruevindekal.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1255014881687941120
+
+hediye-internet-saglik.org
+
+# Reference: https://www.virustotal.com/gui/file/94b0ce7f4772f14203318fac3ef734d548583101756651cbc8327559aa8e87f3/detection
+# Reference: https://www.virustotal.com/gui/ip-address/8.208.10.238/relations
+# Reference: https://twitter.com/500mk500/status/1255107451755642881
+# Reference: https://pastebin.com/iA2rCVWM
+
+aircool.club
+bigbi.club
+buckett.club
+da-blay.club
+deepcooling.club
+ebaka.club
+eyser.club
+hapy.club
+hebdnesjnjdjnsnn.club
+karantin.club
+lamabot.club
+makakaka.club
+morpeh.club
+ozeroo.club
+perevodchiks.club
+platina3.club
+popugai.club
+proton236.club
+raketas.club
+sport219.club
+tailand.club
+thailands.club
+tututu.club
+vards.club
+your-truth.club
+zadrots.club
+zaebali.club
+zalman.club
+zlos.club
+zotac.club
+
+# Reference: https://twitter.com/ReBensk/status/1255733724831870976
+
+muhtesem20gb.xyz
+
+# Reference: https://twitter.com/mertcangokgoz/status/1255769217376419846
+
+kazanin20gbturkiye.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1255771473295413248
+
+hediye-internet.site
+
+# Reference: https://twitter.com/mertcangokgoz/status/1255770609503657990
+
+xn--20gb-tanmla-kullan-l0c.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1255776900926095360
+
+updateflashplayer.link
+
+# Reference: https://twitter.com/mertcangokgoz/status/1255834722699182082
+
+hediyem20gb-internet.org
+
+# Reference: https://twitter.com/mertcangokgoz/status/1255841829481824256
+
+www-ecimer-uygulamayukleme-govtr.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1255885022923554819
+# Reference: https://www.virustotal.com/gui/file/5f04f7b808154a6ee2fe058b68c0078ee6fea308e80e05062a83b82d9fb70ee5/detection
+
+saglikodemelerinial.org
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.211.247.69/relations
+
+10bwr.com
+albaros.com
+gazolcer.com
+havug.net
+havuj.net
+havup.net
+havux.net
+iadebasvuru-uygulamasi.com
+maritosrickytos.com
+parfumodax.com
+sabunlu.com
+sendekurtul.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256137772060102665
+
+ramazanda20gb.xyz
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256134646997438470
+
+ramazanda20.site
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256133761911193600
+
+20gbinternet.gratis
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256159729581244417
+
+20gb-internet-kullan.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256160173137301504
+# Reference: https://twitter.com/ReBensk/status/1256206619303526401
+
+20gbkazanmafirsati.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256161070311505925
+
+evdehayatvar-20gb.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256161999505043457
+
+faturali-faturasiz20gb.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1256307456260689920
+
+http://81.177.140.138
+
+# Reference: https://www.virustotal.com/gui/ip-address/81.177.140.138/relations
+
+xyz5xyz.ru
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256508745749798917
+
+saglikbakanligi-destek.org
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256504467186487297
+
+ramazan20gbinternet.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256505382542991362
+
+hediye20gb.online
+
+# Reference: https://twitter.com/malwrhunterteam/status/1256484118566785024
+
+kimbaktiprofilime.com
+
+# Reference: https://twitter.com/W3B_B3ND3R/status/1237694235748577280
+# Reference: https://www.virustotal.com/gui/ip-address/27.254.33.56/relations
+
+/Anubis%202.5/
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256855384901464065
+
+hediyepaket20gb.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1256932429044109314
+
+saglikbakanli-hediyeinternet.org
+
+# Reference: https://twitter.com/malwrhunterteam/status/1257194073330507781
+
+donoffermaster.best
+
+# Reference: https://twitter.com/ReBensk/status/1257150225291988992
+
+ramazangeldi20gbinternet.com
+
+# Reference: https://twitter.com/ReBensk/status/1257149765810180097
+
+kcc.earth
+
+# Reference: https://twitter.com/mertcangokgoz/status/1257242805174505472
+
+hediyeinternetpaket.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1257242452970344448
+
+xn--20gb-hediyefrsati-nvc.com
+
+# Reference: https://twitter.com/mertcangokgoz/status/1257273505483231235
+# Reference: https://twitter.com/mertcangokgoz/status/1256225541495173123
+
+1000tl-iade-aidatodeme.com
+1000tldesteksistemi.com
+10gbps.store
+1498tldevletdestegi.com
+1gb-internet.hemenyukle.online
+20gb-evdekaldiye.com
+20gb-gratis-telecomunicazioni.org
+20gb-internet-kullan.com
+20gb-internet.org
+20gb-internett-kullan.com
+20gb-korona2020.com
+20gb-tanımla-kullan.com
+20gbaktiflestirturkiye.com
+20gbhayatevesigar.com
+20gbhediye-internet.com	
+20gbhediye-internet.net
+20gbhediye-saglikbakanligi-onayli.com
+20gbhediye-saglikbakanligi-onayli.online
+20gbhediye-yukle.com
+20gbhediyeanindasende.com
+20gbhediyeinternetim.site
+20gbhediyepaket.com
+20gbhediyesaglikbakanligionayli.com
+20gbhediyeyukle.com
+20gbhediyeyukle.online
+20gbhediyeyukle.org
+20gbinternet-evdekal.com
+20gbinternet-hediyem.net
+20gbinternet.gratis
+20gbinternet.online
+20gbkazanmafirsati.com
+20gbkazanturkiye.com
+20gbramazanhdyesi.online
+2500tl-kartaidatlarini3dileode.org
+30gbinternet.com
+30gbinternet.online
+30gbpaket.net
+40gb-internet.com
+aninda30gb.com
+aninda30gb.info
+bedava20gbramazan.info
+campangna20gb.gratis
+cimer-20gbhediyeinternet.com
+cimer-2500tlonlinekartsorgulamagovtr.com
+cimer20gbinternetpaketi.tk
+devletonayli-20gbyukle.tk
+devletonayli20gbhediye.tk
+evdehayatvar-20gb.com
+evdekal-20gb.com
+evdekal-20gbkazan.com
+evdekal-birysel-giristr.net
+evdekal-kampanyasi20gbhediye.com
+evdekal-kampanyasi20gbhediye.org
+evdekal20gbkampanya.tk
+evdekal20gbkampanyamerkezi.tk
+evdekal20gbkazan.com
+evdekal20gbkazan.net
+evdekal20gbyukle.tk
+evdekaldiye.com
+evdekaldiye20gb.com
+faturali-faturasiz20gb.com
+hayatevdevar20gb.com
+hayatevesigar-20gb.com
+hediy20gb-internet-online.net
+hediye20gb.online
+hediyeinter.net
+hediyeinternet.website
+hediyeinternet20gb.com
+hediyeler10gb-ramazan.net
+hediyelerkazan-evdekalturkiye.org
+hediyem-20gbinternet.org
+hediyem20gb-internet.net
+hediyem20gb-internet.org
+iletisimbaskanligi20gbpaket.com	
+indirtanimlagelsn20gb.net
+info20gb.com
+internet-20gb-saglik.com
+internet-20gb-saglik.online
+kazanin20gbturkiye.com
+kazanturkiye20gb.com
+kazanturkiyem20gb.com
+mobil-internetpaket20gb.com
+muhtesem20gb.xyz
+muhtessemramazan20gb.com
+mujdepaket20gb.com
+ramazan-hediyesi10gb.net
+ramazan20.site
+ramazan20gbinternet.com
+ramazanayihediyesi3aylar.net
+ramazanda20.site
+ramazanda20gb-trtr.com
+ramazanda20gb.xyz
+ramazanda20gbhdye.online
+ramazanda20gbkampanyasi.com
+ramazanda20gbsizlerehediye.com
+ramazanda20gbsizlerehediyelerimiz.com
+ramazanhediyeniz20gb.com
+ramazanhediyenizialin.com
+ramazaninternethediyesi.com
+saglikliramazanda20gb.com
+sende-yararlan20gb.com
+sendeyararlan20gbdan.com
+sendeyararlannturkiye20gb.com
+sendeyararlanturkiye20gb.com
+sinirsizpaket-heryone20gb.com
+sizdeyararlanin20gbdan.com
+sizeozel20gbinternet.com
+tumoperatorlere20gb.com
+turkcell20gbinternetiniz.net
+turkcellden20gbsizlere.net
+turkcelldeninternet20gb.net
+uygulamahediyelerimiz-20gb.net
+uygulamahediyelerimiz20gb.org
+xn--20gb-hediyefrsati-nvc.com
+xn--20gbhediye-interneti-karma-ekc68r.net
+xn--maliyebakanl-20gbhediye-ned36bb.net
+xn--salkbknl20gb-hediye-6ucg40bfb.net
+
+# Reference: https://twitter.com/ReBensk/status/1257290843419009025
+
+www-cimer-mobiluygulama.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1257651750082920449
+
+tellerbackseat.club
+
+# Reference: https://twitter.com/mertcangokgoz/status/1257646190881116161
+
+10bpy.com
+20-gbinternetbedava.net
+20gbnetim-bedava.net
+campana20gb.com
+ektarifem20gb-indirimli-turkcell.com
+evde-kal20gb.online
+iletisim20gbmobil.com
+paketlerimiz20gb.com
+ramazanayihediyesi10gbcepte.net
+ramazandaiadeleriniz.online
+ramazandestekyardimlasma.net
+ramazanhediyesi-10gbhediye.net
+resmi-aidat-iade-alma.org
+saglik-bakanligi-20gb-hediye.online
+saglik-bakanligi-20gb.com
+www-cimer-mobilgirisyeni-gov-tr.com
+www-internet-20gb-saglik.online
+xn--campaa20gb-x9a.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1257728763913175040
+
+yandexclou.temp.swtest.ru
+
+# Generic
+
+/Club_Romance_Mod.apk
+/hediye10gb.apk
+/20gb_hediye_internet.apk
+/406e8b2b28b39726/login.php
+/67656gtdm,mnvjuyhjfbnxhgfgWERESFFGDXSGHGbhgdrgdhgfhg/
+/8huayth8duye7g8hh76dt3yQS/
+/989aa1996afe587dbbf6f46ec8ab514f/
+/anubis/login.php
+/B0UrKFg4cSL4xSgnUPPC/
+/Gsh6kSNDSTfr7jdBfG/
+/fullprivateanubis/
+/injasdfasdfasd23/
+/injclientup/
+/injfull/
+/inj/a1.php
+/inj/a10.php
+/inj/a11.php
+/inj/a12.php
+/inj/a13.php
+/inj/a14.php
+/inj/a15.php
+/inj/a16.php
+/inj/a2.php
+/inj/a3.php
+/inj/a4.php
+/inj/a5.php
+/inj/a6.php
+/inj/a7.php
+/inj/a8.php
+/inj/a9.php
+/inj/fafa.php
+/inj/in_axis.php
+/injclientup/fafa.php
+/injectfull/
+/kokojamba1212/
+/se54ees5gse55wgsdfgdy/
+/o1o/a1.php
+/o1o/a10.php
+/o1o/a11.php
+/o1o/a12.php
+/o1o/a13.php
+/o1o/a14.php
+/o1o/a15.php
+/o1o/a16.php
+/o1o/a2.php
+/o1o/a3.php
+/o1o/a4.php
+/o1o/a5.php
+/o1o/a6.php
+/o1o/a7.php
+/o1o/a8.php
+/o1o/a9.php
+/ping/ping1.php
+/ping/ping2.php
+/ping/ping3.php
+/ping/ping4.php
+/ping/ping5.php
+/ping/ping6.php
+/ping/ping7.php
+/ping/ping8.php
+/ping/ping9.php
+/ping/ping10.php
+/ping/ping11.php
+/ping/ping12.php
+/ping/ping13.php
+/ping/ping14.php
+/ping/ping15.php
+/ping/ping16.php
+/private/tuk_tuk.php
+/es_com.rsi.php
+/es_es.evobanco.bancamovil.php
+/es_es.lacaixa.mobile.android.newwapicon.php
+/jp_jp.co.sevenbank.apppassbook.php
+/jp_jp.co.rakuten_bank.rakutenbank.php
+/jp_jp.mufg.bk.applisp.app.php
+/il_com.ideomobile.hapoalim.php
+/tr_garantibank.php
+/tr_qnb_finansbank.php

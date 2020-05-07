@@ -1,0 +1,1228 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/ScumBots/status/1052260096422625281
+
+ryenylittleleague.azureedge.net
+
+# Reference: https://twitter.com/ScumBots/status/1053342340012744705
+
+call.sysapi.net
+
+# Reference: https://twitter.com/ScumBots/status/1053341937271476224
+
+yi4qsyaprvlbephz.onion.to
+
+# Reference: https://twitter.com/ScumBots/status/1059443242612203520
+
+mypsh.ddns.net
+
+# Reference: https://twitter.com/ScumBots/status/1060034869013700608
+
+rekt.onthewifi.com
+
+# Reference: https://twitter.com/ScumBots/status/1061987878987816960
+
+leon-de-bruxelle.com
+
+# Reference: https://twitter.com/ScumBots/status/1062368314670891008
+
+frontieredevie.fr
+
+# Reference: https://twitter.com/ScumBots/status/1066171943399903232
+
+epelix-63870.portmap.io
+
+# Reference: https://twitter.com/ScumBots/status/1069302264974721024
+
+alphatool.serveo.net
+
+# Reference: https://twitter.com/ScumBots/status/1069654505636139017
+
+meterpreter.serveo.net
+
+# Reference: https://twitter.com/ScumBots/status/1070687543543386114
+
+it-pro.serveo.net
+
+# Reference: https://twitter.com/ScumBots/status/1074270423804723200
+
+globalact.gq
+
+# Reference: https://twitter.com/ScumBots/status/1075034205472653312
+
+0.tcp.ngrok.io
+
+# Reference: https://twitter.com/ScumBots/status/1078973915840552960
+
+manage-shope.com
+
+# Reference: https://twitter.com/ScumBots/status/1079066477289005057
+
+amazon34.duckdns.org
+
+# Reference: https://twitter.com/ScumBots/status/1081939579693920257
+
+rostelekom.pw
+
+hack.localtunnel.digital-securite.ovh
+digital-securite.ovh
+kaliccbx.ddns.net
+
+# Reference: https://twitter.com/ScumBots/status/1098326434274267142
+
+195.3.146.86:443
+
+# Reference: https://twitter.com/ScumBots/status/1098495046318542848
+
+10.77.55.60:9991
+
+# Reference: https://twitter.com/ScumBots/status/1100239578068328454
+
+noticiasfinancieras.zapto.org
+
+# Reference: https://twitter.com/ScumBots/status/1101069508419178503
+
+46.29.163.222:9999
+
+# Reference: https://twitter.com/ScumBots/status/1103395507546845190
+
+leel.ddns.net
+
+# Reference: https://twitter.com/ScumBots/status/1104348618335678464
+
+104.145.231.114:8091
+
+# Reference: https://twitter.com/ScumBots/status/1105065844005048321
+
+91.211.88.131:5555
+
+# Reference: https://twitter.com/ScumBots/status/1106460030218440709
+
+95.179.235.70:443
+
+# Reference: https://twitter.com/ScumBots/status/1106994800660807681
+
+186.81.33.145:63000
+
+# Reference: https://twitter.com/ScumBots/status/1107437718659891200
+
+186.81.33.145:64000
+
+# Reference: https://twitter.com/ScumBots/status/1107225070819332097
+
+k.bank3.io
+
+# Reference: https://twitter.com/ScumBots/status/1108808003829014530
+
+noticiasfinancieras.zapto.org
+
+# Reference: https://twitter.com/ScumBots/status/1110314175715311616
+
+194.48.152.35:443
+
+# Reference: https://twitter.com/ScumBots/status/1111334651430359040
+
+198.18.133.111:8081
+
+# Reference: https://twitter.com/ScumBots/status/1112449681454452736
+
+159.89.214.31:42069
+
+# Reference: https://twitter.com/ScumBots/status/1112450458700996608
+
+193.161.193.99:40138
+
+# Reference: https://twitter.com/ScumBots/status/1113317717300469760
+
+95.213.251.165:7070
+
+# Reference: https://twitter.com/ScumBots/status/1113955672138354688
+
+186.81.33.145:64500
+
+# Reference: https://twitter.com/ScumBots/status/1114833955822481408
+
+151.80.60.117:6666
+
+# Reference: https://twitter.com/ScumBots/status/1114849055501422593
+
+47.95.251.134:8886
+
+# Reference: https://twitter.com/ScumBots/status/1116428100286537728
+
+78.192.98.226:4444
+
+# Reference: https://twitter.com/ScumBots/status/1117790943208513537
+
+52.15.72.79:14441
+
+# Reference: https://twitter.com/ScumBots/status/1117793457999949824
+
+5.19.4.164:4444
+
+# Reference: https://twitter.com/ScumBots/status/1117808559637577730
+
+52.15.72.79:10241
+
+# Reference: https://twitter.com/ScumBots/status/1118058956298051584
+
+185.242.21.78:80
+
+# Reference: https://twitter.com/ScumBots/status/1118261545220345856
+
+159.89.214.31:4343
+
+# Reference: https://twitter.com/ScumBots/status/1119448112613986305
+
+193.161.193.99:39125
+
+# Reference: https://twitter.com/ScumBots/status/1119987918247006209
+
+18.216.53.253:11712
+
+# Reference: https://twitter.com/ScumBots/status/1120279841763483649
+
+52.14.61.47:17369
+
+# Reference: https://twitter.com/ScumBots/status/1121470183523201026
+
+52.14.61.47:19552
+
+# Reference: https://twitter.com/ScumBots/status/1121854255898472453
+
+87.223.180.106:4444
+
+# Reference: https://twitter.com/ScumBots/status/1121891714321518593
+
+170.70.41.120:8080
+
+# Reference: https://twitter.com/pmelson/status/1123226187348705281
+
+193.161.193.99:34346
+
+# Reference: https://twitter.com/ScumBots/status/1123531266593312774
+
+185.202.174.118:80
+
+# Reference: https://twitter.com/ScumBots/status/1124651146621194241
+
+88.99.59.176:666
+
+# Reference: https://twitter.com/ScumBots/status/1125841489181978625
+
+3.92.243.227:4444
+
+# Reference: https://twitter.com/ScumBots/status/1126122085405921280
+
+194.5.250.129:443
+
+# Reference: https://twitter.com/ScumBots/status/1126466859258327042
+
+check.wittmann-it-security.org
+
+# Reference: https://twitter.com/ScumBots/status/1131387542715150336
+
+18.223.41.243:12432
+
+# Reference: https://twitter.com/ScumBots/status/1132894210573643777
+
+134.209.84.8:8082
+
+# Reference: https://twitter.com/ScumBots/status/1133583150750343168
+
+109.150.206.190:443
+
+# Reference: https://twitter.com/ScumBots/status/1135807664200527873
+
+193.161.193.99:54015
+
+# Reference: https://twitter.com/ScumBots/status/1141761391621283846
+
+46.177.202.34:5151
+
+# Reference: https://twitter.com/ScumBots/status/1141794546570997760
+
+91.200.103.24:443
+
+# Reference: https://twitter.com/ItsReallyNick/status/1014522001900306433
+# Reference: https://www.virustotal.com/gui/file/457282edec9eb312d6d99644c4a7c097b4c8984a023e255a5942b5dab5635a56/detection
+
+52.17.157.98:445
+
+# Reference: https://twitter.com/pmelson/status/1143536066781204481
+
+aaa.stage.13171101.lol.intepi.net
+
+# Reference: https://twitter.com/pmelson/status/1143527997888180234
+
+179.43.160.219:80
+
+# Reference: https://twitter.com/ScumBots/status/1143807370969210883
+
+3.14.212.173:18032
+
+# Reference: https://twitter.com/ScumBots/status/1143959624430829570
+
+54.36.163.79:80
+
+# Reference: https://twitter.com/ScumBots/status/1145504975939866624
+
+116.206.228.203:7834
+
+# Reference: https://twitter.com/ScumBots/status/1148985146550493188
+
+190.166.86.4:4444
+
+# Reference: https://twitter.com/ScumBots/status/1149750278842912768
+
+194.99.22.146:443
+
+# Reference: https://twitter.com/ScumBots/status/1150554457668751360
+
+146.255.150.56:4444
+
+# Reference: https://twitter.com/ScumBots/status/1151144078215700480
+
+103.242.237.110:4446
+
+# Reference: https://twitter.com/ScumBots/status/1151148452652421121
+
+kurosan.ddns.net
+
+# Reference: https://twitter.com/ScumBots/status/1151145809108512769
+
+78.193.216.186:4446
+
+# Reference: https://twitter.com/ScumBots/status/1151906993810083842
+
+52.14.249.189:8080
+
+# Reference: https://twitter.com/ScumBots/status/1156103391753506821
+
+3.14.212.173:12313
+
+# Reference: https://twitter.com/ScumBots/status/1156359755281195008
+
+3.17.202.129:12313
+
+# Reference: https://twitter.com/ScumBots/status/1156840752342818818
+
+185.207.205.12:28741
+
+# Reference: https://twitter.com/ScumBots/status/1157218238041866240
+
+185.207.205.12:28742
+
+# Reference: https://twitter.com/ScumBots/status/1159527654225301506
+
+149.6.167.58:443
+
+# Reference: https://twitter.com/ScumBots/status/1160356057207713792
+
+95.144.8.33:4444
+
+# Reference: https://twitter.com/ScumBots/status/1160550196004237312
+
+3.19.3.150:12081
+
+# Reference: https://twitter.com/ScumBots/status/1160550327273295872
+
+3.14.212.173:12081
+
+# Reference: https://twitter.com/ScumBots/status/1160537610718253056
+
+18.223.41.243:19419
+
+# Reference: https://twitter.com/ScumBots/status/1161082450140958720
+
+194.5.250.105:443
+
+# Reference: https://twitter.com/ScumBots/status/1161967029018071046
+
+attem83.duckdns.org
+
+# Reference: https://twitter.com/ScumBots/status/1162058130307584002
+
+153.73.72.79:4444
+
+# Reference: https://twitter.com/ScumBots/status/1165093924517625856
+
+185.244.150.240:443
+
+# Reference: https://twitter.com/ScumBots/status/1165422297328619521
+
+18.223.41.243:12313
+
+# Reference: https://twitter.com/ScumBots/status/1165808947657420800
+
+18.223.41.243:15578
+
+# Reference: https://twitter.com/ScumBots/status/1166415604384972800
+
+18.223.41.243:14529
+
+# Reference: https://twitter.com/ScumBots/status/1167576493758791681
+
+45.45.76.113:1337
+
+# Reference: https://twitter.com/ScumBots/status/1170326258372218880
+
+82.102.24.42:4444
+
+# Reference: https://twitter.com/ScumBots/status/1170357503370170368
+
+104.154.246.115:443
+
+# Reference: https://twitter.com/ScumBots/status/1171978786507808768
+
+amazon34.duckdns.org
+
+# Reference: https://twitter.com/i/status/1172612874708996096
+# Reference: https://app.any.run/tasks/a2ddc0ed-5c0f-409e-bf26-457a9237ce3d/
+
+159.246.29.114:443
+
+# Reference: https://twitter.com/ScumBots/status/1173444749287710720
+
+onezero0.net
+
+# Reference: https://twitter.com/ScumBots/status/1176404662653730817
+
+141.255.159.11:4444
+
+# Reference: https://twitter.com/ScumBots/status/1178475870652116994
+
+185.61.148.70:443
+
+# Reference: https://twitter.com/VK_Intel/status/1179450328900685831
+
+91.214.124.20:80
+
+# Reference: https://twitter.com/ScumBots/status/1180077281714348033
+
+45.62.225.56:443
+
+# Reference: https://twitter.com/ScumBots/status/1180114767970803712
+
+3.92.243.227:4444
+
+# Reference: https://twitter.com/ScumBots/status/1180121450092617728
+
+27.164.5.106:16728
+
+# Reference: https://twitter.com/ScumBots/status/1180887202265489409
+
+185.92.74.29:4444
+
+# Refeence: https://twitter.com/ScumBots/status/1180977806920036353
+
+185.92.74.29:35555
+
+# Reference: https://twitter.com/ScumBots/status/1181239022875824131
+
+3.17.202.129:13147
+
+# Reference: https://twitter.com/ScumBots/status/1181435313270525953
+
+psycho.ooguy.com
+
+# Reference: https://twitter.com/ScumBots/status/1183274933348192258
+
+tronium.ddns.net
+
+# Reference: https://twitter.com/ScumBots/status/1183654188192014337
+
+3.19.3.150:19416
+
+# Reference: https://twitter.com/pmelson/status/1184143380294619137
+
+137.218.255.213:22849
+
+# Reference: https://twitter.com/ScumBots/status/1186090265611767808
+
+193.161.193.99:49202
+
+# Reference: https://twitter.com/ScumBots/status/1186624502945517569
+
+3.92.243.227:4444
+
+# Reference: https://twitter.com/ScumBots/status/1188695655608455173
+
+76.218.94.80:4444
+
+# Reference: https://twitter.com/ScumBots/status/1190274811139969024
+
+18.223.41.243:17192
+
+# Reference: https://twitter.com/ScumBots/status/1190807095806963713
+
+18.223.41.243:19650
+
+# Reference: https://twitter.com/DidierStevens/status/1192870847217840131
+
+3.134.31.210:8080
+
+# Reference: https://twitter.com/ScumBots/status/1193726301967917057
+
+18.188.14.65:14404
+
+# Reference: https://twitter.com/ScumBots/status/1195001191253643270
+
+5.175.214.20:18880
+
+# Reference: https://twitter.com/ScumBots/status/1195118477520121856
+
+5.94.121.244:4444
+
+# Reference: https://twitter.com/ScumBots/status/1195564311982354433
+
+192.241.132.33:4433
+
+# Reference: https://twitter.com/ScumBots/status/1195729497934508035
+
+186.10.116.109:4455
+
+# Reference: https://twitter.com/ScumBots/status/1196883776405725191
+
+df98fdslkjfs.red
+
+# Reference: https://twitter.com/ScumBots/status/1197508727001305089
+
+85.152.6.30:8080
+
+# Reference: https://twitter.com/ScumBots/status/1200520713536491520
+
+185.174.172.201:443
+
+# Reference: https://twitter.com/ScumBots/status/1200716613202391040
+
+193.161.193.99:56282
+
+# Reference: https://twitter.com/ScumBots/status/1200720388281569280
+
+192.241.133.27:4466
+
+# Reference: https://twitter.com/ScumBots/status/1201587934127886338
+
+telastex.net
+
+# Reference: https://twitter.com/ScumBots/status/1201978181139550210
+
+24.52.217.77:5443
+
+# Reference: https://twitter.com/ScumBots/status/1203528860098281472
+
+updateqdb.com
+
+# Reference: https://twitter.com/ScumBots/status/1204219193698267146
+
+134.209.84.8:8082
+
+# Reference: https://twitter.com/ScumBots/status/1204414044804800517
+
+92.84.116.3:1911
+
+# Reference: https://twitter.com/ScumBots/status/1206925775464796163
+
+18.188.14.65:12260
+
+# Reference: https://twitter.com/ScumBots/status/1210387460083073025
+
+217.80.20.213:1515
+
+# Reference: https://www.virustotal.com/gui/file/cfc2bd30cdeacd9c3a91259f0013778d4e5436871e929f10c1cd8d7b14b041a7/detection
+
+18.223.41.243:18113
+3.17.202.129:18113
+3.19.3.150:18113
+
+# Reference: https://www.virustotal.com/gui/file/0320d90a95fbb080763f71deb3148f32bf78abf8f10286dcf118c0e36a936292/detection
+
+3.14.212.173:4040
+3.17.202.129:16416
+
+# Reference: https://www.virustotal.com/gui/file/b537f1d14d0524c436532ea2be7d0fe51ce543886b477a8517480fc68dc57a6b/detection
+
+3.17.202.129:13841
+
+# Reference: https://www.virustotal.com/gui/file/95f1ea0b38a61e7778ef017e091206f99f13ded7ddf2fc36a20de8da70055e12/detection
+
+3.17.202.129:12010
+
+# Reference: https://www.virustotal.com/gui/file/70bba627efb3ff53f0175adc91f8475fbaf2a7cad3d6a804b80d75abe7381b74/detection
+
+3.14.212.173:15905
+
+# Reference: https://www.virustotal.com/gui/file/3e4e78dd9cbddd1800d0891ef95f6f5bda212bcbb1a069f2fbaaba3668ac85f7/detection
+
+3.14.212.173:12734
+
+# Reference: https://www.virustotal.com/gui/file/a3ed5434cd0962e13e85377f3e2737b027d75f46445ce2410dc5538164242be9/detection
+
+3.17.202.129:17299
+3.19.114.185:17299
+
+# Reference: https://www.virustotal.com/gui/file/695b9ca3cd336e0372732e0d5227ca0e58da1dfc3298615e9c0ace25cb1baf3d/detection
+
+18.188.14.65:15344
+3.17.202.129:15344
+
+# Reference: https://www.virustotal.com/gui/file/27b0e998a7920147e7d58753f1d8d96dbbaec541076e5361a04324a9753081f2/detection
+
+3.14.212.173:17035
+3.17.202.129:17035
+
+# Reference: https://www.virustotal.com/gui/file/14fe05562eeefb83448360308522709a31db34955de01bca438965af343c66a6/detection
+
+18.223.41.243:11265
+
+# Reference: https://www.virustotal.com/gui/file/5638ed9a9d4ea35e861d344441a2e5b1e4cdcfc358c8c7dd077574dd49657a3d/detection
+
+96ac532a.ngrok.io
+
+# Reference: https://www.virustotal.com/gui/file/cd8b19cbe08a2ace933b9f3e631d4752c1f8f56e04646c03510877cda5c87e3d/detection
+
+193.161.193.99:49202
+
+# Reference: https://www.virustotal.com/gui/file/13843c62906ce22307c6861b25b5e8672aa1766f4e41cb425a0c9468a6823085/detection
+
+193.161.193.99:63420
+
+# Reference: https://www.virustotal.com/gui/file/25cd26e740426b51a966a2c1c4888496c27bba7abf12589fae98394f3550e027/detection
+
+3.19.3.150:15492
+
+# Reference: https://www.virustotal.com/gui/file/cfc2bd30cdeacd9c3a91259f0013778d4e5436871e929f10c1cd8d7b14b041a7/detection
+
+18.223.41.243:18113
+3.17.202.129:18113
+3.19.3.150:18113
+
+# Reference: https://www.virustotal.com/gui/file/66bc47048c508f0bde60a88deb339e914b6f3c60bb1b2256e83d118bf3dad928/detection
+
+3.19.3.150:80
+
+# Reference: https://www.virustotal.com/gui/file/4c63034454f490a8ed01a7685e1606d32da5e7f301d3538bccf4f7de5e41bd66/detection
+
+3.19.3.150:19416
+
+# Reference: https://www.virustotal.com/gui/file/2bb71dbfb2ccf9eddb7143437a2b430181d472fce6b819426b8c4e3ce1f5bf82/detection
+
+3.19.3.150:11036
+
+# Reference: https://www.virustotal.com/gui/file/c7157233ddc1df83112d6eb3466180b3347f1069d8b878d424747508ccd9d949/detection
+
+3.19.114.185:15344
+3.19.3.150:15344
+
+# Reference: https://www.virustotal.com/gui/file/8835a022439a0b630a2c2eba40b9bcf0432cb8d68d7a0060a1a44246cec29ab2/detection
+
+3.19.3.150:11317
+
+# Reference: https://www.virustotal.com/gui/file/7d60fd1bbf98b86ead194f76bf4413f9a70b91567037c015156a5c70d7c7a5eb/detection
+
+3.19.3.150:29038
+
+# Reference: https://www.virustotal.com/gui/file/bc4689aab804e44f23cf60bb9bc4c17bd68b73224f7267d1a0d41c3d55af4458/detection
+
+185.101.92.3:1777
+
+# Reference: https://www.virustotal.com/gui/file/218d24468418a0b6fd800a464ba64aeea42add82a11c284ee094076555c3d237/detection
+
+trszrfea.ddns.net
+
+# Reference: https://www.virustotal.com/gui/file/73562ccfd6dc94c59dcd691aceccdf1eeee089ff69a041234f3bf65dc218bbab/detection
+
+185.101.92.3:8636
+
+# Reference: https://twitter.com/c3rb3ru5d3d53c/status/1213831684791123969
+
+23.227.207.185:444
+
+# Reference: https://twitter.com/ScumBots/status/1215378978212646927
+
+107.191.46.239:14293
+
+# Reference: https://twitter.com/ScumBots/status/1217633122059259905
+
+newsrecordmusic112.monster
+
+# Reference: https://twitter.com/ScumBots/status/1217920265478459395
+
+194.99.22.145:443
+
+# Reference: https://twitter.com/ScumBots/status/1217922012481556480
+
+45.153.186.51:443
+
+# Reference: https://twitter.com/ScumBots/status/1217872955310530560
+
+185.244.150.5:4444
+
+# Reference: https://twitter.com/ScumBots/status/1218660424876462082
+
+137.224.106.4:73
+
+# Reference: https://twitter.com/ScumBots/status/1218849343442210816
+
+3.17.202.129:11591
+
+# Reference: https://www.virustotal.com/gui/file/c15ecbb84c15839556f39589f7f513dc3785b5ac727ba26f2d29b9993661696f/detection
+
+185.27.134.11:24004
+
+# Reference: https://twitter.com/ScumBots/status/1219796839031103494
+
+165.227.61.185:443
+
+# Reference: https://twitter.com/ScumBots/status/1219988825130356736
+# Reference: https://www.virustotal.com/gui/domain/officestorage.org/relations
+
+185.245.84.106:443
+officestorage.org
+
+# Reference: https://twitter.com/ScumBots/status/1219998021926182924
+
+185.165.168.226:443
+virtualofficeroom.com
+
+# Reference: https://twitter.com/ScumBots/status/1220180618132316160
+
+fearlesslyhuman.org
+
+# Reference: https://twitter.com/ScumBots/status/1190345274872532993
+
+c2.virus.eu
+
+# Reference: https://twitter.com/ScumBots/status/1183048566929002496
+
+3.8.236.109:443
+
+# Reference: https://twitter.com/ScumBots/status/1218566229264343041
+
+autodiscover.cisco-gateway.com
+
+# Reference: https://www.virustotal.com/gui/file/09f1ee55ee6d228e8bca7120191ef4160294a2b45743ba2b52449f4bd6fd730f/detection (# Nishang)
+
+3.17.202.129:16437
+
+# Reference: https://twitter.com/ScumBots/status/1220945633625935872 (# Nishang)
+
+3.17.202.129:11353
+
+# Reference: https://twitter.com/ScumBots/status/1220945728811552773 (# Nishang)
+
+3.17.202.129:17008
+
+# Reference: https://twitter.com/ScumBots/status/1220946013600518144 (# Nishang)
+
+3.17.202.129:17413
+
+# Reference: https://twitter.com/ScumBots/status/1220945586955964418 (# Nishang)
+
+3.17.202.129:19355
+
+# Reference: https://twitter.com/ScumBots/status/1220945824517173248 (# Nishang)
+
+3.17.202.129:14901
+
+# Reference: https://twitter.com/ScumBots/status/1220945776081326085 (# Nishang)
+
+3.17.202.129:12022
+
+# Reference: https://twitter.com/ScumBots/status/1220945964506107904 (# Nishang)
+
+3.17.202.129:16264
+
+# Reference: https://twitter.com/ScumBots/status/1220945917223874561 (# Nishang)
+
+3.17.202.129:18777
+
+# Reference: https://twitter.com/ScumBots/status/1220945680551895040 (# Nishang)
+
+3.17.202.129:16437
+
+# Reference: https://twitter.com/ScumBots/status/1220945870386012160 (# Nishang)
+
+3.17.202.129:10146
+
+# Reference: https://twitter.com/ScumBots/status/1221394913562124289 (# Nishang)
+
+3.17.202.129:18163
+
+# Reference: https://twitter.com/ScumBots/status/1221410012804911105 (# Nishang)
+
+3.17.202.129:12205
+
+# Reference: https://twitter.com/ScumBots/status/1221437692157865984 (# Nishang)
+
+3.17.202.129:11916
+
+# Reference: https://twitter.com/ScumBots/status/1221445243301715970 (# Nishang)
+
+3.17.202.129:15404
+
+# Reference: https://twitter.com/ScumBots/status/1221467894363705344 (# Nishang)
+
+3.17.202.129:15173
+
+# Reference: https://twitter.com/ScumBots/status/1222242996755845120 (# Nishang)
+
+3.17.202.129:19733
+
+# Reference: https://twitter.com/ScumBots/status/1222265648564273153 (# Nishang)
+
+3.17.202.129:10418
+
+# Reference: https://twitter.com/ScumBots/status/1222532412279808000 (# Nishang)
+
+3.17.202.129:10740
+
+# Reference: https://twitter.com/ScumBots/status/1222597835474030592 (# Nishang)
+
+3.17.202.129:17202
+
+# Reference: https://twitter.com/ScumBots/status/1222814262403399680 (# Nishang)
+
+3.17.202.129:11400
+
+# Reference: https://twitter.com/ScumBots/status/1223586875371401217 (# Nishang)
+
+3.17.202.129:14379
+
+# Reference: https://twitter.com/ScumBots/status/1223654823356256256 (# Nishang)
+
+3.17.202.129:15404
+
+# Reference: https://twitter.com/ScumBots/status/1223994559912464386 (# Nishang)
+
+3.17.202.129:14766
+
+# Reference: https://twitter.com/ScumBots/status/1223994628220866560 (# Nishang)
+
+3.17.202.129:15676
+
+# Reference: https://twitter.com/ScumBots/status/1222207486062735363
+
+82.31.142.196:80
+whipped.duckdns.org
+
+# Reference: https://twitter.com/ScumBots/status/1222451876064526337
+
+45.32.72.237:443
+
+# Reference: https://twitter.com/ScumBots/status/1222517422483288065
+
+bankingadvice.net
+
+# Reference: https://twitter.com/ScumBots/status/1222576942748250114
+
+27.4.98.173:443
+
+# Reference: https://www.virustotal.com/gui/file/f5f0d36874f9e69329601f2334b6d4f218bafe857b3cbb5f9e8ad13d328f0d51/detection
+
+weirdly.crabdance.com
+
+# Reference: https://www.virustotal.com/gui/file/611e4ecdf7e7db5e2308f3af69d01a4a28866aa3b434d77f7a2b7a95a8faf292/detection
+
+194.5.98.139:444
+
+# Reference: https://www.virustotal.com/gui/file/bb11f097959ea9c8854e064fb63008f0fd3916f13ad9437762b133663613b56d/detection
+
+178.124.140.147:444
+
+# Reference: https://twitter.com/ScumBots/status/1223577316024115200
+
+51.159.56.13:32042
+
+# Reference: https://www.virustotal.com/gui/file/f5f0d36874f9e69329601f2334b6d4f218bafe857b3cbb5f9e8ad13d328f0d51/detection
+
+185.148.241.50:444
+
+# Reference: https://twitter.com/ScumBots/status/1225790150564859905
+
+18.223.41.243:14272
+
+# Reference: https://twitter.com/ScumBots/status/1225807757019840512
+
+18.223.41.243:14272
+
+# Reference: https://twitter.com/pmelson/status/1226248009786236928
+
+58.96.92.95:38900
+
+# Reference: https://twitter.com/ScumBots/status/1226278360436924416
+
+renovatesystem.com
+
+# Reference: https://www.virustotal.com/gui/file/cb4778c05f0c2635000bd05e42070994568e9e4d992e32536c406217fb5b063e/detection
+
+185.101.92.3:1204
+danger11.duckdns.org
+
+# Reference: https://www.virustotal.com/gui/file/143aea5d387c714790accdfa13a9cd0f6eef6b7b957b5c3b2f3a9e4e3e03c4b5/detection
+
+27.63.179.85:1202
+
+# Reference: https://www.virustotal.com/gui/file/3b436a5c83b85b2734a34367a488d7ea59b086708b5c2c2582265607fab36adf/detection
+
+185.101.92.3:1209
+27.63.162.41:1209
+
+# Reference: https://twitter.com/ScumBots/status/1226967904626913281
+
+46.119.226.171:4444
+
+# Reference: https://twitter.com/ScumBots/status/1226906959946899457
+
+94.156.189.250:443
+
+# Reference: https://twitter.com/ScumBots/status/1228827730038398977
+
+185.147.15.22:443
+
+# Reference: https://twitter.com/ScumBots/status/1229078059871096832
+# Reference: https://www.virustotal.com/gui/file/a1c29c076b654c070bad23d0d49018e7e6b54bf4cc942da9b59aec6c7f086d26/detection
+
+139.59.145.48:80
+
+# Reference: https://twitter.com/ScumBots/status/1229751243075092487
+
+137.224.106.4:73
+
+# Reference: https://twitter.com/ScumBots/status/1229647311187386368
+
+3.17.148.164:4444
+
+# Reference: https://twitter.com/ScumBots/status/1231132845567025152
+
+41.242.125.159:9326
+
+# Reference: https://twitter.com/ScumBots/status/1231146688389242881
+
+46.19.138.139:8080
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.66.250.11/relations
+
+45.66.250.11:443
+45.66.250.11:80
+
+# Reference: https://twitter.com/ScumBots/status/1232300541243535364
+# Reference: https://www.virustotal.com/gui/ip-address/209.97.190.80/relations
+
+209.97.190.80:80
+
+# Reference: https://twitter.com/ScumBots/status/1232427628751179778
+
+2.58.47.203:51022
+
+# Reference: https://twitter.com/ScumBots/status/1232842863211315202
+
+empire.hillsclerk.us
+
+# Reference: https://twitter.com/ScumBots/status/1232864255902470145
+
+203.132.95.52:4444
+
+# Reference: https://twitter.com/ScumBots/status/1233415444608036870
+
+45.77.65.211:443
+
+# Reference: https://app.any.run/tasks/e84e3cdc-9ba0-4756-ab1d-fcd49627310a/
+
+3.19.3.150:19011
+3.19.3.185:19011
+
+# Reference: https://app.any.run/tasks/41e07e9b-b2c7-4a68-a753-bac8af8b5129/
+
+18.223.41.243:19011
+
+# Reference: https://app.any.run/tasks/7f128fa7-fb0d-4dee-9030-838756962045/
+
+3.17.202.129:16276
+
+# Reference: https://app.any.run/tasks/a24f9f91-7f49-4c39-9fd7-a201823e0dd3/
+
+18.223.41.243:17037
+
+# Reference: https://app.any.run/tasks/be1bef6c-d7e1-48bd-8615-36ae937e5149/
+
+51.79.13.195:443
+
+# Reference: https://app.any.run/tasks/d28a0271-4c99-41db-b465-6b8f491be0f7/
+
+18.188.14.65:17085
+
+# Reference: https://app.any.run/tasks/b2e3dce5-0431-49b8-bfa9-755ede26669f/
+
+3.17.202.129:17085
+
+# Reference: https://app.any.run/tasks/45c2192e-d4aa-4c9f-8023-df08ce3fe263/
+
+18.223.41.243:17085
+
+# Reference: https://app.any.run/tasks/caee7291-f505-434f-9776-f3823f800924/
+
+3.19.3.150:19926
+
+# Reference: https://app.any.run/tasks/614143b4-f937-4440-a6fa-75104cbe3749/
+
+3.19.3.150:17085
+
+# Reference: https://app.any.run/tasks/371b7c11-6ca7-4b47-9c7f-3fb2a2925778/
+
+18.223.41.243:19926
+
+# Reference: https://app.any.run/tasks/b78b0de3-6fec-48ed-8fec-2b89eded1ccf/
+
+18.223.41.243:12297
+
+# Reference: https://app.any.run/tasks/4d8c492a-5e93-44a2-ae25-de5b0c42995a/
+
+3.19.114.185:19926
+
+# Reference: https://app.any.run/tasks/3fc8bb68-e8c2-4fa7-933b-f4d2f3311f86/
+
+3.19.114.185:12297
+
+# Reference: https://app.any.run/tasks/ff1c77ac-741d-4fe3-88f2-078703b8b554/
+
+3.19.3.150:13705
+
+# Reference: https://app.any.run/tasks/2b671d09-a141-4182-89fc-8b22f82ce17c/
+
+18.188.14.65:18003
+
+# Reference: https://app.any.run/tasks/919c78ff-42e7-4a31-bf86-e049acd51087/
+
+3.17.202.129:18460
+
+# Reference: https://app.any.run/tasks/20629c84-f053-43b8-92f6-a5ac72e0ec0e/
+
+3.19.3.150:14975
+
+# Reference: https://app.any.run/tasks/8042e101-7155-420d-9341-d3465ca67200/
+
+5.199.167.188:443
+
+# Reference: https://app.any.run/tasks/02bec560-ffa8-4dd1-a454-0ed53a8e5477/
+
+18.223.41.243:17697
+
+# Reference: https://app.any.run/tasks/d32fdbff-318b-47f7-a4fb-b6a0ea43dd31/
+
+45.147.230.255:443
+
+# Reference: https://app.any.run/tasks/27766850-f078-4c83-b3b9-efb0555102a5/
+
+95.179.223.7:443
+
+# Reference: https://app.any.run/tasks/1f8f95bd-c468-44df-a85d-a12db4b6bec5/
+
+23.227.207.185:444
+
+# Reference: https://app.any.run/tasks/4bcf6d77-73c1-474b-880d-8336b4e2b684/
+
+5.252.176.28:443
+
+# Reference: https://app.any.run/tasks/47215b69-0652-4d00-a3b7-b0105d8bc6f8/
+
+154.194.3.229:443
+
+# Reference: https://app.any.run/tasks/56966ffa-ce51-43ee-b0f3-ea4d7255700b/
+
+106.13.161.43:8008
+
+# Reference: https://app.any.run/tasks/dbabc592-e5ba-4aac-baa2-cab401522d58/
+
+108.62.141.34:443
+
+# Reference: https://app.any.run/tasks/41364a08-e861-4c8b-8667-191853c31580/
+
+91.214.124.64:443
+
+# Reference: https://app.any.run/tasks/ee44f6c0-2aeb-4850-ae2f-3ffdba532096/
+
+79.137.36.9:4444
+
+# Reference: https://app.any.run/tasks/40c32568-72c6-49fe-b168-a9dbe611d15a/
+
+37.48.83.137:443
+
+# Reference: https://app.any.run/tasks/41511d60-4804-4d84-83d8-b17b58e8d119/
+
+47.95.210.165:8088
+
+# Reference: https://twitter.com/ScumBots/status/1235898016126636032
+
+amazn.cloud
+
+# Reference: https://twitter.com/ScumBots/status/1237294702384291840
+# Reference: https://www.virustotal.com/gui/file/2fce54f19cc11e9bea9a18952cae872d43d22bfba1e3bbb393ed9a94cd41ac0e/detection
+
+manulife.ca-syschk.net
+
+# Reference: https://twitter.com/James_inthe_box/status/1237491709824516096
+# Reference: https://twitter.com/ScumBots/status/1237494768000614400
+
+107.4.90.214:666
+
+# Reference: https://twitter.com/ScumBots/status/1237851828500365317
+# Reference: https://www.virustotal.com/gui/file/6c97dbef34d64b48f0f774e458bbc25f38b902b3c2f3e819e3b276c781511603/detection
+
+newsrecordmusic112.monster
+
+# Reference: https://twitter.com/ScumBots/status/1237898455797792769
+
+185.92.74.29:35555
+
+# Reference: https://twitter.com/ScumBots/status/1237898529734967298
+
+185.211.245.139:8744
+
+# Reference: https://twitter.com/ScumBots/status/1237898605979025409
+
+ahost.rythmstick.net
+
+# Reference: https://twitter.com/ScumBots/status/1238045901559607296
+
+3.120.130.166:4444
+
+# Reference: https://twitter.com/ScumBots/status/1238198152789966850
+
+217.182.54.208:5490
+
+# Reference: https://twitter.com/ScumBots/status/1238427161482211328
+
+77.72.131.69:443
+
+# Reference: https://twitter.com/malwrhunterteam/status/1238433863862550535
+
+34.217.82.194:4444
+
+# Reference: https://twitter.com/ScumBots/status/1238564315239768065
+
+68.202.129.2:444
+
+# Reference: https://twitter.com/ScumBots/status/1238761868623306752
+
+54.80.171.208:8080
+emp.fourhorsemen.tech
+
+# Reference: https://twitter.com/ScumBots/status/1238764388259168257
+
+bankingadvice.net
+
+# Reference: https://www.virustotal.com/gui/file/daab59d033ea03ebeb8a80666895c703f84be5e55d0652d28018c38419b0b1b7/detection
+
+79.134.225.87:7519
+
+# Reference: https://twitter.com/ScumBots/status/1239777308426350592
+
+LostSec.duckdns.org
+
+# Reference: https://twitter.com/ScumBots/status/1239831415941988352
+# Reference: https://www.virustotal.com/gui/ip-address/83.171.237.192/relations
+
+83.171.237.192:443
+
+# Reference: https://twitter.com/ScumBots/status/1239828901699948544
+
+185.189.183.47:443
+
+# Reference: https://twitter.com/ScumBots/status/1241030568860672000
+
+78.98.10.243:6969
+
+# Reference: https://twitter.com/ScumBots/status/1241330107983237120
+
+193.161.193.99:48650
+
+# Reference: https://www.virustotal.com/gui/file/0102a1e5c866802c447fd541a064deb0649989766797fce6c66710661644a2ae/detection
+
+3.135.90.78:19505
+
+# Reference: https://twitter.com/ScumBots/status/1242039722723196928
+
+185.244.30.75:5544
+
+# Reference: https://twitter.com/ScumBots/status/1242403412077096961
+
+youtube-au.com
+
+# Reference: https://twitter.com/ScumBots/status/1242561911541182464
+
+45.147.229.143:1499
+
+# Reference: https://twitter.com/ScumBots/status/1243837813843537920
+
+3.90.140.45:8080
+emp.fourhorsemen.tech
+
+# Reference: https://twitter.com/ScumBots/status/1243842847016615936
+
+3.133.136.228:8080
+
+# Reference: https://twitter.com/ScumBots/status/1243835299656056832
+
+195.2.92.129:8080
+
+# Reference: https://twitter.com/ScumBots/status/1243832784256487424
+
+119.28.226.59:8080
+
+# Reference: https://twitter.com/ScumBots/status/1244671656490078211
+
+193.161.193.99:25820
+
+# Reference: https://twitter.com/ScumBots/status/1244679610975105033
+
+193.161.193.99:59646
+
+# Reference: https://twitter.com/ScumBots/status/1244677096301105153
+
+193.161.193.99:5555
+
+# Reference: https://twitter.com/ScumBots/status/1244671587292532738
+
+139.162.161.211:11320
+
+# Reference: https://twitter.com/notajungman/status/1245737937419079680
+# Reference: https://app.any.run/tasks/92024127-dfc1-43eb-8f67-f06cd80c473a/
+
+us.palodevops.com
+
+# Reference: https://www.virustotal.com/gui/file/03dd215f9bea6267537736d045f61cd1168e18a1e713550a5d4b847a8dbd563d/detection
+
+171.5.183.76:2516
+171.5.188.210:2516
+flukez.ddns.net
+
+# Reference: https://twitter.com/ScumBots/status/1250583513147064321
+
+pastebin-sucks-now.biz
+
+# Reference: https://twitter.com/ScumBots/status/1251780150959788032
+
+134bd4b7.ngrok.io
+
+# Reference: https://www.virustotal.com/gui/file/7829b5e1783d04dbbf18d2f482ca5a231c706b06183d53138c8561b0f60d1101/detection
+
+141.255.154.68:4444
+
+# Reference: https://www.virustotal.com/gui/file/86fca38ef2f17c94467cacf4a016c4f1e72d43ca847b99ee04244a4395029892/detection
+
+77.223.232.41:8080
+
+# Reference: https://twitter.com/ScumBots/status/1257468572051353605
+
+sumo.twcug.net
+
+# Reference: https://twitter.com/ScumBots/status/1257510386238177281
+
+162.241.114.106:443
+
+# Reference: https://twitter.com/ScumBots/status/1257510600827121667
+
+3.19.3.150:18415

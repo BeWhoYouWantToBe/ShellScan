@@ -1,0 +1,14 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://cofense.com/seeing-resurgence-demonic-astaroth-wmic-trojan/
+
+ta4dcmj.proxy6x-server.website
+
+# Reference: https://twitter.com/cyber__sloth/status/1200366623615594497
+
+campanhacomercialvendas.info
+
+# Generic trails
+
+/Seu7v130a.xsl

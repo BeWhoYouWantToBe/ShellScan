@@ -1,0 +1,15 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.microsoft.com/security/portal/threat/encyclopedia/entry.aspx?Name=Trojan:Win32/Necurs
+
+pbmwtovcjeyvnauw.in
+dnsplast.com
+ogakdluohmssh.com
+bfedsudxfx.com
+jogdfliksma.com
+ccuqwbwoosxxiwc.com
+
+# Reference: https://app.any.run/tasks/94a610bd-850a-44fa-824a-cc376c3ffa4b/
+
+http://35.178.227.183/forum/db.php

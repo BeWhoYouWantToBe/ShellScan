@@ -1,0 +1,659 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+brokenbones.ru
+
+# Reference: http://sanesecurity.blogspot.com/2015/03/pentafoodscom-invoice-2262004.html
+
+accalamh.aspone.cz
+awbrs.com.au
+
+# Reference: https://otx.alienvault.com/pulse/56288ace4637f21ecf2b3149/
+# Reference: http://blog.dynamoo.com/2015/10/malware-spam-invoice-for-payment_21.html
+
+inferno.name
+btros.co.uk
+networking4africa.com
+hubbardproducts.com
+serverconnect.se
+paramountdistributors.com
+helicoptersjob.com
+theciosummits.org
+
+# Reference: https://www.proofpoint.com/us/threat-insight/post/dridex-campaigns-millions-recipients-unpatched-microsoft-zero-day
+
+btt5sxcx90.com
+rottastics36w.net
+
+# Reference: https://resources.netskope.com/h/i/339100944-latest-microsoft-office-zero-day-served-via-godzilla-botnet
+
+btt5sxcx90.com
+hyoeyeep.ws
+rottastics36w.net
+
+# Reference: https://www.bromium.com/mapping-malware-distribution-network/ (Figure 3 – Dridex and IcedID shared distribution infrastructure)
+
+104.131.7.40:443
+95.211.148.20:1443
+37.59.1.74:3389
+89.22.103.32:3389
+
+# Reference: https://twitter.com/VK_Intel/status/1114477236890083329
+
+193.29.57.193:443
+109.94.110.82:443
+185.243.114.241:443
+5.149.254.28:443
+
+# Reference: https://twitter.com/Zerophage1337/status/1135584186553819136
+
+http://212.68.198.234
+212.129.37.217:3389
+174.136.5.242:1801
+
+# Reference: https://twitter.com/VK_Intel/status/1141575181640654850
+
+69.164.194.184:443
+167.99.108.97:170
+85.234.143.94:170
+46.105.131.65:691
+
+# Reference: https://blog.talosintelligence.com/2019/06/threat-roundup-0614-0621.html (# Win.Malware.Dridex-6995476-1)
+
+05p60clujw.com
+0hox6fnkju.com
+0kgr0svsdw.com
+11exvnzpds.com
+1di9yqmr4e.com
+1ohvaomcea.com
+3rw4hwziej.com
+49jucwch3k.com
+ahy9qgaqjw.com
+ahzu9hhyqj.com
+dpnrq4kpe7.com
+egntxfch2f.com
+ejglgrlsfv.com
+ijzuyfo6m9.com
+ikzjlvrxat.com
+nnd9bsodkx.com
+p8o6adliq7.com
+tkhrjexxyn.com
+tqzvsormbw.com
+u6vpjfufqz.com
+uxnyhqblpm.com
+v2xeifg35d.com
+wzykyninkd.com
+x6n5szq1jb.com
+
+# Reference: https://twitter.com/JRoosen/status/1144313588686958597
+
+138.197.76.168:443
+
+# Reference: https://www.vkremez.com/2018/09/lets-learn-dissecting-dridex-banking.html
+
+104.236.24.85:443
+107.170.220.167:4431
+188.240.231.15:3889
+securityupdateserver4.com
+
+# Reference: https://twitter.com/Bank_Security/status/1148471450422140929
+# Reference: https://pastebin.com/0XNMhLP2
+
+144.76.111.43:443
+46.105.131.77:443
+71.217.15.111:443
+97.76.245.131:443
+24.40.243.66:443
+159.69.89.90:3389
+159.89.179.87:3389
+62.210.26.206:3389
+akamai-static5.online
+bustheza.com
+cachejs.com
+topdalescotty.top
+
+# Reference: https://twitter.com/James_inthe_box/status/1149715067308429312
+# Reference: https://twitter.com/malware_traffic/status/1149698996660854784
+
+216.98.148.151:443
+188.166.156.241:443
+94.23.53.34:443
+5.39.91.110:691
+5.133.242.156:170
+89.22.103.139:8000
+ponestona.com
+
+# Reference: https://blog.talosintelligence.com/2019/07/threat-roundup-for-0705-0712.html (# Win.Packed.Xcnfe-7012508-0)
+
+5twtwy19pp.com
+b7qxyidhg5.com
+c62yc6xsm1.com
+coxymk80cd.com
+ct1wlbyjzx.com
+exgk5nzv7m.com
+fvtbhlnxj0.com
+fwn4l9u2gb.com
+fynzp0oht8.com
+glixbn9lnj.com
+gzw0bfzxhb.com
+hludxizrvf.com
+huga7gshpk.com
+in4lprxgui.com
+lqdu4kraxu.com
+lrv8bvrmhq.com
+porsukgrlq.com
+rjhw2tvcvh.com
+rm1cbe2kvb.com
+seqamoa4jp.com
+t0uetiplqk.com
+tcp1twzitf.com
+uttn4zziks.com
+xpqvri1vhh.com
+
+# Reference: https://twitter.com/oguzpamuk/status/1161379594320175105
+
+195.181.210.12:8000
+
+# Reference: https://twitter.com/VK_Intel/status/1161524612938772480
+
+207.180.208.175:884
+178.254.6.27:884
+212.71.237.140:884
+
+# Reference: https://twitter.com/killamjr/status/1164563798939832321
+
+5.230.24.45:8800
+
+# Reference: https://twitter.com/killamjr/status/1168900295725858822
+
+158.69.130.55:8080
+neinorog.com
+rocknrolletco.top
+
+# Reference: https://twitter.com/ps66uk/status/1179491078279487491
+# Reference: https://app.any.run/tasks/ab422490-f2b7-4a83-af46-3394123544af/
+
+185.14.148.44:3389
+185.52.3.84:3389
+192.254.173.31:1443
+
+# Reference: https://blog.malwarebytes.com/threat-analysis/2019/10/the-forgotten-domain:-exploring-a-link-between-magecart-group-5-and-the-carbanak-apt/ (# Domains used in Dridex phishing campaign)
+
+corporatefaxsolutions.com
+onenewpost.com
+xeronet.org
+
+# Reference: https://twitter.com/James_inthe_box/status/1189502725433614336
+# Reference: https://twitter.com/luc4m/status/1189512038495801344
+
+37.59.60.80:3389
+37.59.60.80:443
+37.59.60.80:691
+
+# Reference: https://www.virusbulletin.com/blog/2019/11/german-malspam-campaign-unfashionably-large/
+# Reference: https://otx.alienvault.com/pulse/5dc4b1c2b67f519f6f423543
+# Reference: https://twitter.com/VK_Intel/status/1191758492610256897
+# Reference: https://twitter.com/sugimu_sec/status/1189808608013217793
+# Reference: https://twitter.com/reecdeep/status/1191655276711157760
+# Reference: https://twitter.com/James_inthe_box/status/1191820026359107584
+
+134.213.221.29:8443
+178.63.67.20:691
+185.52.3.84:3389
+194.99.22.193:443
+216.177.137.35:3389
+37.59.60.80:443
+75.127.14.171:3389
+demisorg.com
+masteronare.com
+matidron.com
+nedronog.com
+
+# Reference: https://twitter.com/CapeSandbox/status/1193812783038697472
+
+62.210.113.33:691
+75.127.14.171:3389
+
+# Reference: https://twitter.com/sugimu_sec/status/1193879148382453760
+
+167.114.122.37:691
+176.126.243.82:443
+maxinato.com
+
+# Reference: https://twitter.com/James_inthe_box/status/1194293498788188161
+
+66.34.201.20:8443
+
+# Reference: https://twitter.com/JasonMilletary/status/1195073505613819920
+
+50.116.86.205:8443
+91.205.215.68:3389
+107.170.24.125:8443
+jaisstab.com
+
+# Reference: https://twitter.com/sugimu_sec/status/1196798216009740288
+
+23.226.225.152:443
+178.128.20.11:389
+198.23.146.216:8443
+porangna.com
+
+# Reference: https://twitter.com/malware_traffic/status/1197562166309724166
+
+104.31.89.212:80
+104.31.89.212:443
+185.99.133.38:443
+5.61.34.51:443
+testedsolutionbe.com
+
+# Reference: https://twitter.com/malware_traffic/status/1199082282033778693
+
+cthurmany.com
+sniodoliss.com
+
+# Reference: https://twitter.com/JasonMilletary/status/1199102688618860544
+
+178.209.40.108:443
+185.189.151.199:443
+185.217.0.245:443
+185.92.74.135:443
+195.123.246.113:443
+45.141.86.51:443
+5.196.189.107:443
+5.61.34.51:443
+89.100.104.62:3443
+
+# Reference: https://twitter.com/reecdeep/status/1199325541968568327
+# Reference: https://twitter.com/sugimu_sec/status/1199325111519547392
+
+164.132.75.109:443
+81.2.235.155:8443
+89.22.113.245:691
+perisdog.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/124.156.35.183/relations
+
+biderson.com
+derigono.com
+emareston.com
+raxertos.com
+
+# Reference: https://twitter.com/Dashowl/status/1199349810001637376
+
+212.53.140.12:3389
+
+# Reference: https://twitter.com/killamjr/status/1200432838073618438
+# Reference: https://app.any.run/tasks/17b6731c-8416-48f7-82ff-86e171669ad0/
+
+159.89.233.150:443
+koshtir.ga
+
+# Reference: https://twitter.com/wwp96/status/1201507271936745472
+
+167.99.154.240:443
+87.118.70.66:8443
+
+# Reference: https://twitter.com/VK_Intel/status/1204666318915620866
+
+128.199.136.72:691
+162.213.37.188:443
+178.128.20.11:3389
+
+# Reference: https://twitter.com/VK_Intel/status/1207019775223902209
+
+45.55.199.14:8443
+
+# Reference: https://www.virustotal.com/gui/file/1227eef4bc59240f97b6ab934f7cbba7fed152ce1326c03df20c8d266ea8b33f/detection
+
+171.243.74.70:3389
+tonghopcameraip3.hopto.org
+
+# Reference: https://www.virustotal.com/gui/file/dfdc532c95ab0fc7e9448a620e802c458e220de8a070995d3adf9c3887fa86c5/detection
+
+91.233.116.105:3389
+
+# Reference: https://twitter.com/malware_traffic/status/1217179312027262976
+# Reference: https://www.virustotal.com/gui/domain/egbp.hu/relations
+
+egbp.hu
+
+# Reference: https://twitter.com/malware_traffic/status/1215790282253447168
+# Reference: https://app.any.run/tasks/15cfd7e0-c9f7-40d3-8a29-60c86236d007/
+
+128.199.143.245:443
+185.10.202.137:1443
+192.241.143.52:691
+88.217.172.79:3386
+
+# Reference: https://twitter.com/VK_Intel/status/1217486523379126273
+
+104.131.41.185:443
+138.201.138.91:3389
+178.62.75.204:1443
+62.75.191.14:3389
+
+# Reference: https://twitter.com/VK_Intel/status/1219761504851058689
+
+51.38.95.181:443
+88.217.172.165:691
+44.94.64.8:1443
+
+# Reference: https://twitter.com/killamjr/status/1220005964121665538
+
+bestyelectric.com
+colourcrhire.com
+kayeboutique.net
+
+# Reference: https://app.any.run/tasks/163c36a1-9923-44e1-8a83-a0d8a01bf3dc/
+
+207.174.214.206:443
+
+# Reference: https://twitter.com/Racco42/status/1221920292571738113
+# Reference: https://app.any.run/tasks/ff6d5311-5f3e-409a-a86f-c7efdb2b3f02/
+
+frenchbaroslo.com
+
+# Reference: https://twitter.com/abuse_ch/status/1222153925178032128
+
+173.249.16.143:1443
+46.105.131.71:443
+delivercedor.website
+deliverychuckh.website
+
+# Reference: https://twitter.com/baberpervez2/status/1222251028428607489
+
+predictionsbet.xyz
+
+# Reference: https://twitter.com/baberpervez2/status/1222982803572371470
+
+piltov.xyz
+
+# Reference: https://twitter.com/JasonMilletary/status/1224439366992351233
+
+88.217.172.65:443
+92.38.128.47:3389
+82.165.38.218:691
+157.7.199.53:8443
+
+# Reference: https://twitter.com/VK_Intel/status/1225289450906882048
+
+176.10.250.88:443
+188.165.247.187:691
+209.40.205.12:4433
+79.143.178.194:3309
+
+# Reference: https://twitter.com/VK_Intel/status/1227296485517275140
+
+188.138.88.173:691
+212.227.92.116:3886
+69.84.35.189:443
+82.118.225.196:4433
+youcantblockit.xyz
+
+# Reference: https://twitter.com/MSteve25/status/1227274820968165382
+
+http://5.230.28.159
+
+# Reference: https://twitter.com/James_inthe_box/status/1228358900761513984
+
+fashionkillah.xyz
+
+# Reference: https://twitter.com/MSteve25/status/1229768247383412739
+
+109.74.5.95:443
+195.14.0.12:3886
+79.98.24.39:3886
+88.217.172.164:691
+deeppool.xyz
+
+# Reference: https://twitter.com/VK_Intel/status/1230975758807465985
+
+107.161.30.122:8443
+188.166.25.84:3886
+87.106.7.163:3886
+91.211.88.122:443
+shameonyou.xyz
+
+# Reference: https://twitter.com/James_inthe_box/status/1231960080259567616
+
+222.103.135.97:3386
+5.196.95.7:443
+51.38.95.182:443
+82.165.38.218:691
+wongwong.xyz
+
+# Reference: https://twitter.com/MSteve25/status/1234524451657699330
+
+178.62.80.54:1801
+209.236.74.16:443
+217.160.4.118:4443
+91.228.197.79:11443
+macyranch.com
+
+# Reference: https://twitter.com/wwp96/status/1235231555058110466
+
+lupingol.com
+
+# Reference: https://twitter.com/MSteve25/status/1237045051492007939
+
+176.126.244.24:4443
+89.107.129.122:4143
+91.211.88.122:443
+91.103.2.132:4543
+
+# Reference: https://twitter.com/JayTHL/status/1237384903181897729
+# Reference: https://twitter.com/JayTHL/status/1237398536687362048
+
+/esdfrtDERGTYuicvbnTYUv/
+
+# Reference: https://twitter.com/wwp96/status/1237796218773831680
+
+/kb0vlwsyry2kfgagolj/
+
+# Reference: https://twitter.com/JayTHL/status/1238182874223910915
+
+/pj8evnyw1a6e6y630z8v/
+
+# Reference: https://www.virustotal.com/gui/domain/pulid.net/relations
+
+/f7gjpo8znr7f8z01233d/
+
+# Reference: https://twitter.com/sugimu_sec/status/1238103972998598656
+
+turendot.com
+
+# Reference: https://twitter.com/reecdeep/status/1239843956424409089
+
+/c7w42cgsw16nnmb27ou5/
+
+# Reference: https://twitter.com/MSteve25/status/1239935490779987971
+
+199.101.86.6:443
+5.45.179.186:443
+107.152.33.215:3308
+188.165.247.187:691
+
+# Reference: https://twitter.com/baberpervez2/status/1240363018950782976
+
+artofwork.live
+vercom.club
+
+# Reference: https://twitter.com/reecdeep/status/1240547456846356480
+
+chapeauartgallery.com/SUPPORTS/locals.php
+
+# Reference: https://twitter.com/macteca/status/1240301433280434176
+
+185.234.52.170:443
+
+# Reference: https://twitter.com/baberpervez2/status/1240801518959370240
+
+urefere.org
+
+# Reference: https://twitter.com/James_inthe_box/status/1242180312362176512
+
+grars.com
+
+# Reference: https://twitter.com/VK_Intel/status/1242209158386106378
+
+185.234.52.166:443
+185.25.149.178:3389
+46.101.214.173:3886
+
+# Reference: https://isc.sans.edu/diary/25944
+
+bienvenidosnewyork.com
+photoflip.co.in/lndex.php
+everestedu.org/lndex.php
+
+# Reference: https://twitter.com/James_inthe_box/status/1243185539353722880
+# Reference: https://app.any.run/tasks/822e9725-10c2-4cfc-b625-a5ec119e0a0a/
+
+185.234.52.181:443
+
+# Reference: https://twitter.com/JasonMilletary/status/1243263401851305986
+
+107.161.30.122:8443
+219.94.242.134:1443
+
+# Reference: https://twitter.com/James_inthe_box/status/1243196851722936320
+
+owenti.com
+
+# Reference: https://twitter.com/JayTHL/status/1244681886980624385
+
+arcoqa.com
+
+# Reference: https://twitter.com/MSteve25/status/1245023783393656832
+
+fikima.com
+185.47.129.30:443
+158.69.234.15:691
+87.106.7.163:3886
+107.170.158.58:1443
+
+# Reference: https://twitter.com/James_inthe_box/status/1245034518924259328
+
+lonoth.com
+
+# Reference: https://twitter.com/baberpervez2/status/1245538221133647872
+
+artdeico.club
+
+# Reference: https://twitter.com/abuse_ch/status/1245742468882149377
+
+lerlia.com
+lialer.com
+rilaer.com
+
+# Reference: https://twitter.com/pancak3lullz/status/1248303208142983170
+
+retustan.com
+
+# Reference: https://twitter.com/sugimu_sec/status/1255493017571647493
+# Reference: https://twitter.com/reecdeep/status/1255492779528130561
+
+rumetonare.com
+104.156.59.7:3074
+104.248.70.251:443
+144.217.31.174:3389
+93.191.243.2:691
+
+# Reference: https://twitter.com/FaLconIntel/status/1247689506410475520
+# Reference: https://pastebin.com/d5sUBJ9e
+
+37.59.101.71:443
+64.23.78.44:3389
+
+# Reference: https://twitter.com/abuse_ch/status/1252236932760780800
+# Reference: https://app.any.run/tasks/742cef03-a629-4177-be87-a11d877d9dbb/
+
+31.184.253.197:443
+partusog.com
+
+# Reference: https://twitter.com/JasonMilletary/status/1252237364199489539
+
+104.131.147.197:443
+128.199.48.71:3389
+121.134.199.156:443
+185.170.114.114:1443
+
+# Reference: https://twitter.com/abuse_ch/status/1252940499574493184
+
+idemoten.com
+
+# Reference: https://twitter.com/FaLconIntel/status/1252960046729707520
+# Reference: https://twitter.com/reecdeep/status/1252973402144608258
+# Reference: https://pastebin.com/JBdVrx5s
+
+104.255.102.110:443
+108.170.32.62:3389
+156.67.218.141:8443
+82.98.141.106:1443
+
+# Reference: https://twitter.com/sugimu_sec/status/1254755323887316994
+
+geronaga.com
+
+# Reference: https://twitter.com/sugimu_sec/status/1254761426217914369
+
+173.212.212.173:3074
+79.137.83.50:443
+80.86.81.31:3389
+85.25.18.155:691
+
+# Reference: https://twitter.com/Artilllerie/status/1255437711051194369
+# Reference: https://pastebin.com/raw/u9MfxZCA
+
+47.146.33.211:443
+64.118.8.15:443
+66.0.134.226:443
+67.10.34.151:443
+67.241.241.157:443
+71.114.81.105:443
+73.57.179.125:443
+74.94.99.109:443
+85.13.247.220:443
+88.129.221.43:443
+91.211.249.204:443
+95.211.141.208:443
+96.31.200.51:443
+109.169.24.37:453
+160.20.147.138:443
+172.89.217.2:443
+172.93.165.16:443
+173.179.200.126:443
+175.35.73.111:443
+208.99.236.230:443
+209.74.126.2:443
+
+# Reference: https://blog.talosintelligence.com/2020/05/threat-roundup-0424-0501.html (# Win.Packed.Dridex-7683649-0)
+
+5jrbsxlfeq.com
+7ty5rlprko.com
+949ndbggae.com
+af7p7ov2or.com
+bhagla4me3.com
+dy30znpepv.com
+ec9pbhuc3m.com
+ekq9jeogd8.com
+ezdd7ayykk.com
+fr9hx7tsa9.com
+ixknc7rhzu.com
+jgnrmi7rhg.com
+lg0xzs5na1.com
+lybqeljypd.com
+muyjze3f71.com
+niijaaxqsv.com
+oearzzlgot.com
+qkvnruupx3.com
+ryebaopbzg.com
+t5th23jprc.com
+tofam00uu4.com
+vyi2mjy7wd.com
+wm0vpjbt8q.com
+xdp1plibv9.com
+
+# Reference: https://twitter.com/reecdeep/status/1257311243796271104
+
+merotanos.com

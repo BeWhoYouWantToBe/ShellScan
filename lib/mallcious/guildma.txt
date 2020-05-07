@@ -1,0 +1,59 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/Bank_Security/status/1055092859404251137
+# Reference: https://blog.trendmicro.com/trendlabs-security-intelligence/malware-targeting-brazil-uses-legitimate-windows-components-wmi-and-certutil-as-part-of-its-routine/
+# Reference: https://pastebin.com/a7ZXwiDf
+
+ewyytrtw4646934.eririxab.com
+exxxwrtw6115614.kloudghtlp.com
+
+# Reference: https://twitter.com/James_inthe_box/status/1152234123844415489
+
+http://18.217.112.176
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1136555502064848897
+
+http://192.95.2.166
+
+# Reference: https://twitter.com/casual_malware/status/1235206644981780480
+
+ba6csnbs.gq
+zd1dyct2.cf
+hpds8smq.gq
+sp5it6dt.cf
+k3ytlro3.ga
+lixokaln.tk
+jslyjr3f.tk
+rabbanbt.ml
+a2ago5l1.ml
+d9fearr9.ga
+
+# Reference: https://twitter.com/Bank_Security/status/1235839277386182658
+# Reference: https://www.welivesecurity.com/2020/03/05/guildma-devil-drives-electric/
+# Reference: https://otx.alienvault.com/pulse/5e60de80eaa561319a314b21
+
+acquafufheirybveru.online
+ambirsr.tk
+carnataldez.ml
+clooinfor.cf
+dbuhcbudyu.tk
+equilibrios.ga
+gucinowertr.tk
+guildma.bj
+guildma.bm
+guildma.br
+guildma.bs
+iuiuytrytrewrqw.gq
+movbmog.ga
+nvfjvtntt.cf
+vhguyeu.ml
+xskcjzamlkxwo.gq
+zvatrswtsrw.ml
+
+# Reference: https://twitter.com/malwrhunterteam/status/1252633339967799296
+# Reference: https://www.virustotal.com/gui/file/10929c710dfbdc6e78a6bb44a65fa3b84c786be95105f065081ae5927883b3a9/detection
+
+1puknzcr.gq
+lqd1fhjr.tk
+nztpe4cd.gq

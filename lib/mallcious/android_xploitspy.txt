@@ -1,0 +1,16 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/LukasStefanko/status/1249810055924498432
+# Reference: https://twitter.com/LukasStefanko/status/1252526424306655233
+# Reference: https://twitter.com/malwrhunterteam/status/1252515421972041728
+
+covid-19zambia.herokuapp.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1253759165266362368
+
+androjesh.herokuapp.com
+
+# Reference: https://www.virustotal.com/gui/file/549e8d1f3d873cc70698807b99903387a9e5ff1fb507d9900ee606ea9f845101/detection
+
+dhannu.herokuapp.com

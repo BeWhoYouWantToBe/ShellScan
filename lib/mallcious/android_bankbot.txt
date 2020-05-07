@@ -1,0 +1,108 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://info.phishlabs.com/blog/new-variant-bankbot-banking-trojan-aubis
+
+ussensivitius.gq
+webcam4bdsm.tk
+domainprobr.tk
+eltinjapp.cf
+
+# Reference: https://twitter.com/jorgemieres/status/1129069254395990016
+# Reference: https://pastebin.com/8v7TEu3D
+
+asdfqw.xyz
+fastwebworks2010.org
+protec-guvenlik-4.top
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1221865730054008833
+
+kozzet.ru
+
+# Reference: https://www.virustotal.com/gui/ip-address/162.244.32.142/relations
+
+162.244.32.142:443
+162.244.32.142:80
+
+# Referencce: https://twitter.com/sh1shk0va/status/1229720531680796677 (Black Rose Lucy)
+# Reference: https://www.virustotal.com/gui/file/72c84191fe66c690f5101cf307293c003f82d80f1d00ee010e3067bb0c668d75/detection
+
+gapsoinasj.in
+ja0h12p14k.in
+jqeoq0r1hgf03ds.in
+q9120qwpsa.in
+
+# Reference: https://twitter.com/ReBensk/status/1243500015613554688
+
+protectphone.pw
+
+# Reference: https://twitter.com/malwrhunterteam/status/1248220464473923584
+
+gov-bnminfo.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1248226241527844865
+
+http://45.63.98.87
+213.176.36.43:4207
+
+# Reference: https://twitter.com/malwrhunterteam/status/1250386648598228992
+# Reference: https://www.virustotal.com/gui/file/a55a9e204ca0f1015a34f76967ab1e93d7e6ff4ab5abb4816b7438c8db41c8e7/detection
+# Reference: https://seguranca-informatica.pt/marco-2020-analise-reversa-da-app-android-entregue-com-o-phishing-do-novo-banco
+# Reference: https://www.virustotal.com/gui/ip-address/51.83.252.64/detection
+# Reference: https://twitter.com/ESETresearch/status/1252252094066819072
+
+http://186.235.91.100
+abanca-sms.com
+bankinter.online
+bcp-cadastro.com
+bcp-millennium.com
+cadastro-bcp.com
+cadastronb.com
+caixaes.site
+cgd-cadastro.com
+cgd-cadastro.site
+es-atualiza.com
+estado-sms.com
+millennium-bcp.online
+nb-cadastro.com
+net24apk.website
+santa-espanha.com
+sms-nb.site
+totta2020.com
+/controls/nb/control.php
+/controls/nb/sms.php
+/extras/bpi_link.txt
+/extras/nb_link_lyly.txt
+
+# Reference: https://twitter.com/malwrhunterteam/status/1250798529850880000
+# Reference: https://twitter.com/midnight_comms/status/1250811148204675072
+
+http://176.121.14.127
+vodafone5gapps.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1252269448267997185
+# Reference: https://www.virustotal.com/gui/file/111cfd455f836794e40c6b088ab8e73f8e673a79c18e559adcffa89630a51042/detection
+
+http://218.187.103.198
+27.255.64.95:8080
+
+# Reference: https://twitter.com/malwrhunterteam/status/1252287608274722817 (# Android variation)
+# Reference: https://www.virustotal.com/gui/file/10cf5bdab95219661759bc58d572379953233ec44b30bf2f83a89f6058610f09/detection
+# Reference: https://twitter.com/ninoseki/status/1253272702573395972 (# iOS variation)
+# Reference: https://www.virustotal.com/gui/file/748b9f36e5a738665d082b347b5b1f4448d06a70906a32b52b77acd5aa70052e/detection
+
+23.251.45.232:8080
+
+# Reference: https://twitter.com/malwrhunterteam/status/1252323010662588421
+
+poczta-interia.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1252325976308166660
+
+evdehayatvarfree20gb.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1253016217268498437
+# Reference: https://twitter.com/LukasStefanko/status/1253265204646903809
+
+25s.site
+obmenvsemfiles.com

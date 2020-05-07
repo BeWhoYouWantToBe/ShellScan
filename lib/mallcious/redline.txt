@@ -1,0 +1,29 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/malwrhunterteam/status/1240215543480750082
+# Reference: https://www.virustotal.com/gui/file/f3b0aa7d9664258c9e1783289c4fc56e05b23e3eb9a3557f55733806564deb73/detection
+
+45.142.212.126:6677
+
+# Reference: https://www.virustotal.com/gui/file/d920f89a4d8ae2f2cc597779c57e515c0f9451a66ecdaeef35169f6d0a43a35d/detection
+
+176.57.69.250:6677
+goldfrommadagaskar.pw
+
+# Reference: https://www.virustotal.com/gui/file/1bd9e1a6c02737ffdfca1d3c32985361a5c5bdc5da7cc2593291650eb32dd15d/detection
+
+204.95.99.26:6677
+zyzoom007.no-ip.org
+
+# Reference: https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/ (# RedLine Stealer)
+
+covid-19-gov.com
+
+# Reference: https://twitter.com/jorgemieres/status/1255243161099735046
+
+192.154.229.100:6677
+
+# Generic
+
+/IRemotePanel

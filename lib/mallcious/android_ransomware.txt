@@ -1,0 +1,21 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.welivesecurity.com/2019/07/29/android-ransomware-back/
+
+rich7.xyz
+wevx.xyz
+
+# Reference: https://github.com/advanced-threat-research/IOCs/blob/master/2017/2017-07-07-leakerlocker-mobile-ransomware-acts-without-encryption/leakerlocker-mobile-ransomware-acts-without-encryption.csv
+
+goupdate.bid
+updatmaster.top
+
+# Reference: https://www.virustotal.com/gui/file/5648e9d7dd6d221538b531bc9c344c4e9793731e7ead56d2a41324c3e3e6cdc6/detection
+
+149.28.14.103:2222
+
+# Reference: https://twitter.com/malwrhunterteam/status/1253776019775016961
+# Reference: https://www.virustotal.com/gui/file/83028bc2bf977754b50d3a22ba9dad6a523e29c3238b0b28ff0e15ebd736489f/detection
+
+extrapooo.xyz

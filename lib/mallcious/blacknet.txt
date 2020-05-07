@@ -1,0 +1,79 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/makflwana/status/1210466313954414592
+
+5ineprojects.com
+hckrmytest.com
+netdz.ga
+davidescu.000webhostapp.com
+kiraamora.000webhostapp.com
+
+# Reference: https://twitter.com/tkanalyst/status/1212695828931973122
+# Reference: https://app.any.run/tasks/607a63ec-0ab5-45a9-b255-df78eb73bd79/
+
+weboss.in
+
+# Reference: https://twitter.com/wwp96/status/1218260858524065794
+
+meublesinde.in/black/
+
+# Reference: https://twitter.com/wwp96/status/1218263835007758336
+# Reference: https://app.any.run/tasks/6feea8e2-7390-4439-bb23-a35df75422e1/
+
+r-s.us
+
+# Reference: https://twitter.com/jorgemieres/status/1222611503125356544
+
+vintosw0.beget.tech
+
+# Reference: https://twitter.com/ps66uk/status/1228268374649659392
+# Reference: https://app.any.run/tasks/9be4f8eb-e828-4ca5-ba76-6f8db7f1627a/
+
+sinsixclaw.com
+
+# Reference: https://twitter.com/ViriBack/status/1228676828107300864
+
+agent.agentreef.xyz
+
+# Reference: http://tracker.viriback.com/dump.php (# 2020-02-23, BlackNet)
+
+davidaredetoate.000webhostapp.com
+davidescu.000webhostapp.com
+kiraamora.000webhostapp.com
+lex1qlist3.temp.swtest.ru
+loadbytes.tn
+mailstealer.zzz.com.ua
+meublesinde.in
+piratashost.top
+raders.ru
+semanariolaprensa.com
+sinsixclaw.com
+snapk.org
+vovagaka.myjino.ru
+wwe23pro.myjino.ru
+xblackeyex.000webhostapp.com
+
+# Reference: https://twitter.com/MBThreatIntel/status/1242173577639550976
+
+antivirus-covid19.site
+corona-antivirus.com
+instaboom-hello.site
+
+# Generic trails
+
+/blacknet/connection.php
+/blacknet/getCommand.php
+/blacknet/login.php
+/blacknet/recieve.php
+/BlackNETPanel/connection.php
+/BlackNETPanel/getCommand.php
+/BlackNETPanel/login.php
+/BlackNETPanel/recieve.php
+/BlackNET%20Panel/connection.php
+/BlackNET%20Panel/getCommand.php
+/BlackNET%20Panel/login.php
+/BlackNET%20Panel/recieve.php
+/panel/connection.php?data=
+/panel/receive.php?command=
+/panel/getCommand.php?id=

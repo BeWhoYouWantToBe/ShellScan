@@ -1,0 +1,757 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Aliases: terdot
+
+# Reference: https://twitter.com/ViriBack/status/1207762597887578117
+
+4netdown.com
+7travel.online
+asepyqicob.ga
+bestshareland.com
+cooldatazone.com
+englishpro.online
+netgetdream.com
+prozipdownload.com
+rapidsha.com
+
+# Reference: https://twitter.com/albertzsigovits/status/1207805362780491777
+
+vipfilehost.com
+
+# Reference: https://twitter.com/ViriBack/status/1209101494471057409
+
+oajdasnndkdahm.com
+
+# Reference: https://twitter.com/James_inthe_box/status/1209101821773398016
+
+fdsjfjdsfjdsjfdjsfh.com
+fdsjfjdsfjdsdsjajjs.com
+idisaudhasdhasdj.com
+
+# Reference: https://twitter.com/nao_sec/status/1217834630612647946
+# Reference: https://app.any.run/tasks/c5f307eb-4389-4713-83a4-67ee331409f9/
+
+isfjiaaodwsoi.com
+
+# Reference: https://app.any.run/tasks/1bc5951f-38a1-4f18-89f5-498f4e8733e7/
+
+6pi3jrqjbssfh6gu.onion.pw
+
+# Reference: https://twitter.com/Racco42/status/1224232852998574080
+# Reference: https://app.any.run/tasks/b4707b79-2101-4204-9aa7-30879480fd85/
+
+giril.org
+shatskie.org
+
+# Reference: https://app.any.run/tasks/f27e3051-b85a-4f62-be6e-6322c24d5aab/
+
+hourtschem.com
+
+# Reference: https://app.any.run/tasks/b620b4ea-25f0-4fb8-a957-acf2629fe361/
+
+xhj4hypdsb3jozwn.onion.pw
+
+# Reference: https://twitter.com/Racco42/status/1226813759642951680
+
+tarynak.org
+
+# Reference: http://tracker.viriback.com/dump.php (# snapshot 2020-02-23, Zloader)
+
+45.72.3.132:443
+185.174.100.9:80
+4netdown.com
+7travel.online
+acusyposaq.gq
+asepyqicob.ga
+bestshareland.com
+l9ce1490.justinstalledpanel.com
+prozipdownload.com
+netgetdream.com
+rapidsha.com
+bdr.ubibancaa.fun
+cooldatazone.com
+oajdasnndkdahm.com
+englishpro.online
+
+# Reference: https://twitter.com/malware_traffic/status/1238557668475797504
+
+marchadvertisingnetwork.com
+marchadvertisingnetwork1.com
+marchadvertisingnetwork2.com
+marchadvertisingnetwork3.com
+marchadvertisingnetwork4.com
+marchadvertisingnetwork5.com
+marchadvertisingnetwork6.com
+marchadvertisingnetwork7.com
+marchadvertisingnetwork8.com
+marchadvertisingnetwork9.com
+marchadvertisingnetwork10.com
+
+# Reference: https://twitter.com/1ZRR4H/status/1240678076888965121
+# Reference: https://pastebin.com/nbhJXUyM
+
+tdvomds.pw
+
+# Reference: https://twitter.com/Racco42/status/1242476400260476929
+# Reference: https://app.any.run/tasks/8dfb9e60-3397-448e-9b2e-3170f8babc00/
+
+dandycodes.com
+hustlertest.com
+sandyfotos.com
+
+# Reference: https://twitter.com/malware_traffic/status/1243301158002855938
+
+botig.xyz
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1243586975665455109
+
+cdncloudtech.xyz
+waitupdate.xyz
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1243594194175832065
+
+blazeseher.xyz
+
+# Reference: https://www.virustotal.com/gui/ip-address/47.91.88.100/relations
+
+artiealtiery.xyz
+lottiebailony.xyz
+pxdgcvnsb.xyz
+twinsors.xyz
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1244690703420215296
+# Reference: https://www.virustotal.com/gui/ip-address/161.117.177.248/relations
+
+basorkiq.host
+bwambztl.xyz
+emmnebuc.xyz
+ethelenecrace.xyz
+hxzfvomd.buzz
+merystol.xyz
+orruucsl.xyz
+pnxkntdl.xyz
+rosannahtacey.xyz
+tozcftdl.xyz
+uenoeakd.site
+veqejzkb.xyz
+wrjmkdod.xyz
+
+# Reference: https://app.any.run/tasks/fcce1eaf-9c8e-4f86-8516-be4429469bab/
+
+cosomeder.pw
+loacorecoder.club
+pythonfinder.top
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1244712457068777479
+
+coniglurnerer.pw
+goingfurther.club
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1244726754561986562
+
+zoraokorol.xyz
+
+# Reference: https://twitter.com/Racco42/status/1244885376344510464
+# Reference: https://twitter.com/Racco42/status/1244885377514643458
+
+fotonums.com
+greenrumba.com
+hibsurf.com
+nexycombats.com
+peermems.com
+postgringos.com
+starterdatas.com
+tetraslims.com
+
+# Reference: https://twitter.com/malware_traffic/status/1244961995272658944
+# Reference: https://twitter.com/malware_traffic/status/1245476991010320386
+# Reference: https://app.any.run/tasks/0ba53a31-e6bf-4343-b28e-770452577622/
+# Reference: https://app.any.run/tasks/bce15dd2-0b28-46b9-a0a4-0c578b0ff9f5/
+
+105711.com
+106311.com
+124331.com
+209711.com
+restorefutureschool.com/wp-includes/customize/class-wp-customize-partial.dll
+
+# Reference: https://twitter.com/abuse_ch/status/1245035543748018176
+
+amberlessard.xyz
+marlodubberly.xyz
+paxtontranter.xyz
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1245255570816405504
+
+cristinneese.xyz
+dierdreswensson.xyz
+judyantonini.xyz
+raegodbold.xyz
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1245426914728316928
+
+horatiobrotherton.xyz
+
+# Reference: https://twitter.com/malware_traffic/status/1245474904688005121
+# Reference: https://app.any.run/tasks/b2f2a7e3-7922-417f-adf4-67d7a1304eb2/
+# Reference: https://www.virustotal.com/gui/url/a13cbbd9aff6991cc01e7e053248b6d7e965591c6abdf0884eb1a1c1025bec55/detection
+
+foodsgoodforliver.com/invest_20.dll
+
+# Reference: https://twitter.com/Racco42/status/1245642286265847815
+# Reference: https://app.any.run/tasks/ebc118a2-e633-4cfc-bf66-7b9fdd6ad300/
+
+buhismus.com
+smoash.org
+spensores.com
+zonaa.org
+
+# Reference: https://twitter.com/abuse_ch/status/1245770198453452801
+
+representis.icu
+representis.xyz
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1246105347074527234
+
+amgdorie.online
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1246112440611409921
+
+rwtkoaqe.club
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1246112441915801608
+
+ydmfemfe.pw
+
+# Reference: https://twitter.com/Racco42/status/1246162154790760453
+# Reference: https://app.any.run/tasks/883607e6-884e-42db-bab6-0050bbbbbd87/
+
+geost.com
+klill.com
+tarsilh.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1246553161373892608
+
+jzfozxqe.site
+
+# Reference: https://twitter.com/MSteve25/status/1246563825500987394
+# Reference: https://pastebin.com/hvnwKAX4
+
+axgqqajnfusmnadvpmwy.com
+bqxcagrgtkqyoafqdoac.com
+dksbrxlwxvvbhrlyjpng.com
+dmwavhkmwavspovdtwvm.com
+duxyrolqbnodiaswmyce.com
+gsqpcgodicxguusvlinr.com
+hjlwxvvbeijnueiymmpt.com
+htfujurumqddlfrpbivj.com
+jgkiohoithggulgcsyht.com
+jkluognywgcscvnhtfxm.com
+jsyxhoofxmvavxmhkrqn.com
+jxfbqgywrtqgyiutwone.com
+jxnrhqkcscmeoinifrht.com
+ksbrcqibtamreysefsan.com
+kudhvynnsxnynwudrcnf.com
+kumbfpnlacbtumgbmcds.com
+luvyfljyvxtdckqykbxw.com
+mcjctcrjxnuhiikoiapd.com
+mptuydssaqenxddltean.com
+peifedkveokvffenjvat.com
+phqhaacetpivjmhkutws.com
+pnodralyaaceteviswqx.com
+qrbmcgaroafhvoiwkmmy.com
+rodlqbkfekwvtnoofbnd.com
+saqenxvawbwvxmtednhw.com
+tbqenjyadhgyppidxiap.com
+urlnxnwcunlayktlnjoj.com
+vlqmhrivqkdjbvcyqcii.com
+wkskhnehbbfllvuqtmlx.com
+xkkxwwusvpucdjdbgwry.com
+xpyseiuknkwonuaotbqg.com
+yybbfamaemjheuoraimf.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1247191438019960833
+
+efbzfyvsb.website
+
+# Reference: https://twitter.com/Racco42/status/1247289428214718474
+# Reference: https://app.any.run/tasks/622ebec2-bba4-4de5-9484-a13732282727/
+
+ergensu.com
+knalc.com
+mioniough.com
+namilh.com
+ronswank.com
+stagolk.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1247590823639822337
+# Reference: https://www.virustotal.com/gui/ip-address/8.208.91.105/relations
+
+kuaxbdkvbbmivbxkrrev.com
+ooygvpxrb.pw
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1247570161860837378
+# Reference: https://www.virustotal.com/gui/ip-address/8.208.78.185/relations
+
+xyajbocpggsr.site
+zgpqjzwrb.pw
+
+# Reference: https://www.virustotal.com/gui/ip-address/8.208.11.89/relations
+# Reference: https://pastebin.com/CdLyBqEm
+
+ddfspwxrb.club
+fcowhcwsb.space
+
+# Reference: https://twitter.com/macteca/status/1242456502738325510
+
+209711.com
+adsprestige.com
+adsprestigecars.com
+daudivk.xyz
+
+# Reference: https://twitter.com/James_inthe_box/status/1237858749307445251
+
+mayinakh.xyz
+
+# Reference: https://app.any.run/tasks/2be8ba62-31ec-4882-8ae6-95ae651707b1/
+
+leiomity.com
+infinitydeveloperspes.info
+unverifiedintigoosjai.info
+
+# Reference: https://app.any.run/tasks/2be23e89-c275-4fa3-85f0-eba9017240d8/
+
+bumblizz.com
+
+# Reference: http://www.pwncode.io/2020/02/spam-campaign-targeting-australian.html
+
+penaght.org
+pitinjest.org
+
+# Reference: https://twitter.com/0xE9FBFFFFFF/status/1218146171660701697
+
+ifjedssofllvcr.com
+isfjiaaodwsoi.com
+mslfiedjssfdes.com
+sifeiwdjiesde.com
+sldeodjiweiswi.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1247916027901628416
+
+http://95.181.152.77
+assemble.sg
+cworld.top
+hwbblyyrb.pw
+
+# Reference: https://twitter.com/Racco42/status/1248226681116123136
+
+mioniough.com
+ergensu.com
+purots.com
+lipurf.com
+vacontd.com
+zelacarths.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1248655950124220416
+
+http://45.138.72.217
+giaytore.com/wp-content/themes/calliope/wp-front.php
+gdchub.com//wp-content/themes/chihua/wp-front.php
+
+# Reference: https://isc.sans.edu/forums/diary/German+malspam+pushes+ZLoader+malware/25996/
+# Reference: https://otx.alienvault.com/pulse/5e8e33f25e325c8269192e07
+
+ergensu.com
+mioniough.com
+namilh.com
+ronswank.com
+knalc.com
+stagolk.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1249725300239413249
+
+free-lans.online/wp/wp-content/themes/calliope/wp_data.php
+grundschule-manderbach.de/wp-content/themes/calliope/wp_data.php
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1249738656442724353
+
+fflxcsbtb.pw
+nncpsedsb.host
+
+# Reference: https://twitter.com/reecdeep/status/1249999309296320514
+
+braeswoodfarmersmarket.com/wp-smart.php
+kacper-formela.pl/wp-smart.php
+
+# Reference: https://twitter.com/executemalware/status/1250091162083393537
+
+caude368.com/wp-content/themes/calliope/wp_data.php
+caudebachthu.com/wp-content/themes/calliope/wp_data.php
+
+# Reference: https://twitter.com/Racco42/status/1250146778915184658
+# Reference: https://app.any.run/tasks/0ad9a5fe-1cf0-49aa-90ce-e52762ee0bbd/
+
+vacontd.com
+zelacarths.com
+bluslias.com
+adandore.com
+ficutept.com
+veckeard.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1250443051505418241
+# Reference: https://pastebin.com/FMEMAUbb
+
+tfkmcgyadnbkwcfbtgpw.com
+thqtsaqvmxlvvirchvrm.com
+kotgpvsfmhfeleaqjmyp.com
+hltywgksxtkgjpmgtjok.com
+xdxpfsnelncuggoupcmv.com
+ookshkrevododxisotou.com
+bviybjknmhfcfrmgcynk.com
+gphwvuomaupnmslpukki.com
+uoskjsoivaaihjtwuhol.com
+itsqvitrywxkaafbqpfc.com
+ukknaicxmqmpifohutqx.com
+ptdvmmduuuuslotigvci.com
+cxmqjnajikgpvjxbfyci.com
+wxbcscxmfohckirnqyqi.com
+hqnouijvybevxarlnsne.com
+sjmyjgjbymeimwockdmx.com
+gkqqrknephekkvtasmjs.com
+qfuojbylxjtplacqamgo.com
+jgempwmqbakubyskbcjh.com
+yxhnhwfytcxeockdmnlg.com
+rjevoqpcmkbdeseuqopx.com
+hubyksxtypsiebxoephw.com
+vawmuwepsdtkiabjdqfu.com
+imhqnoumkberfdcnldrg.com
+asxtasnhawsgjeggkocb.com
+kbbnpkujhlvddvfciwwb.com
+dndvvxlmxaecsaqvjstp.com
+xutovrdrmkehhnjuxxfa.com
+smdiyjvdaoikuutdfapu.com
+uuusoowkxghertmohjro.com
+rdufjiplkkwjwuqopxoe.com
+vjuwwbdaoiavffhjqbqm.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1250461394115362818
+
+http://45.138.72.228
+adrianjohnreviews.com/wp//wp-content/themes/calliope/wp-front.php
+ambicare.misuperweb.es/wp-content/themes/calliope/wp-front.php
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1250474339704725505
+# Reference: https://app.any.run/tasks/703d4ce4-4e99-43cb-bde0-9b37a6950bf3/
+
+ltuywjafbt.icu
+nurgsozebt.pw
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1250811123517067265
+
+pqayjeenbbt.icu
+tepbfiafbtt.pw
+gxieahdgreifujrocxgg.com
+lcefclurxxmkjchqfbkr.com
+mifkudjueyugefbhnuao.com
+chwwnmnkaljgkcvwavaw.com
+iafkjgpqxvivqvlrxhbe.com
+ukuecptwinsqenjawygj.com
+vdukuesfsaqcogusvlvw.com
+sakpisjgeyenxdedqktc.com
+xqmyoogaxmvyuuhfilqm.com
+hrivqkffkathnpvrjpng.com
+shwpleanyjftceyamboo.com
+wnjvlcedqktcxqmymkha.com
+ometlymgjxnrhloygtts.com
+tjpvpfpaqvatvgghmpng.com
+shwplegjkccbkqniytvn.com
+jpiqhjmeilalallibqgg.com
+wnjvlraocxggusvlfesa.com
+alalallibqggwnjvlrjh.com
+ilwfwfwowiqqmksnnolc.com
+bxeyenxdedqktcxqmyxh.com
+beuyxqmkhadrduogueyx.com
+mtacqjjhilwdurxxkugb.com
+vdlwisawlnxduymklidi.com
+dgdujngmwhrwyjduxyru.com
+ubahlcbhugevudeypbiv.com
+xmnbhaafustskowogxie.com
+ifedwtewnuxklymveifk.com
+uuorthyrroddoiwypmfg.com
+jjqusiihmkajxjvfcuek.com
+ajjelymkjcsluwqxnwcb.com
+ahwpwhrwyjjsaqpkbxev.com
+umnkjcsnyoafqdmgulfx.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1250816870787227655
+
+experiza.com.br/wp-includes/js/gritg.php
+reneixer.org/wp/wp-content/themes/calliope/wp_data.php
+semplyusya.ru/wp-content/themes/calliope/wp_data.php
+
+# Reference: https://twitter.com/executemalware/status/1250807797857628160
+
+saidulhussen.com/wp-content/themes/calliope/wp-front.php
+sarkarjewells.com/wp-content/themes/calliope/wp-front.php
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1251163062628831239
+
+http://95.181.172.99
+rksinha.com/wp-content/themes/calliope/wp-front.php
+salamdrug.com/wp-content/themes/calliope/wp-front.php
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1251164977832001536
+
+q8dl3.com/wp-content/themes/calliope/wp_data.php
+sarkarjewells.com/wp-content/themes/calliope/wp_data.php
+groundhogday2020.com/wp-includes/blocks/gumjf.php
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1251164979186761728
+# Reference: https://pastebin.com/k9jpj5xc
+
+ajvwdjtebb.pw
+lgepubbf.icu
+jlcusnqhdwceneaqogsp.com
+ifasotqhtqkwlchqymcg.com
+srigxnfqgpvxsdgwhwvn.com
+pjiklbggolkygstlhjpm.com
+wdvybuaunwbahdpennvh.com
+mldfverghyfjljaxabgw.com
+ykncwpdttjlxstjftoid.com
+peprcmfsyehxwqenebrq.com
+twunwdtidytinvqbspux.com
+xswyhtyewpqekodkiiqe.com
+vcckggkylqsgqkwlbgcw.com
+ydxogbkwprdimlmdhoiv.com
+litqmbfvioyadihmpvly.com
+djsvdmyisdrdrnolitdb.com
+akgslsamgxyokstpiqbe.com
+xkxjtbtqxhrafwlwkjhy.com
+ltngvmmswlkpqbnxjoby.com
+lotfxlikltbhxphwibnj.com
+uxlbsdttbwegldfgpjdk.com
+fbqxbftoidpeprcdrtgi.com
+wcbkqtirfwxgqkavpmxo.com
+raovqqdyubovhxkapxtu.com
+spgkfvqoefsrksmidcdy.com
+viomovnywflgntqxtglc.com
+qqrsvmxtxcmfssohycfg.com
+pjdkssohycsqmlrtwixl.com
+bdppqpcajdrgtjygsmgl.com
+ptjilhhknoxrsvmxrvvs.com
+hdwkxqrsxmaesjtkioyq.com
+wobjftotqayqtumvnyyh.com
+rqgfngjnntoxebovqqfb.com
+qxuidcllpugkllgcnnvo.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1251218013367554049
+# Reference: https://app.any.run/tasks/613cde47-a250-46af-8c15-d1b8e096b625/
+# Reference: https://app.any.run/tasks/57fc3cf4-7b7f-41e1-a27c-06eaad188c20/
+# Reference: https://app.any.run/tasks/f8fd3b18-1aff-4398-9d75-777989358638/
+
+http://108.62.12.98
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1252259631042301957
+
+lakeviewbinhduong.com.vn/wp-content/themes/calliope/wp-front.php
+nevefe.com/wp-content/themes/calliope/wp-front.php
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1252259632762011649
+
+dcaiqjgnbt.icu
+nmttxggtb.press
+rymxiptdskhnpvbyromq.com
+
+# Reference: https://app.any.run/tasks/d2ca7fbf-a02b-40ed-907f-9e4d3dd06565/
+
+cmmxhurildiigqghlryq.com
+fvqlkgedqjiqgapudkgq.com
+fyratyubvflktyyjiqgq.com
+iawfqecrwohcxnhwtofa.com
+nlbmfsyplohyaicmxhum.com
+nmqsmbiabjdnuushksas.com
+ojnxjgfjlftfkkuxxiqd.com
+pwkqhdgytsshkoibaake.com
+snnmnkxdhflwgthqismb.com
+wmwifbajxxbcxmucxmlc.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1252259631042301957
+
+http://176.96.238.22
+
+# Reference: https://pastebin.com/iRHL4GWi
+
+evdjomtwobiavfmljisx.com
+rcksrimcpjftiapuboev.com
+ortbeulgcdsoaixsccqa.com
+gkpxrwfnwsnnntiosuke.com
+utkjtbnnntioseutkjtd.com
+vkqkgabhhusseolewjhp.com
+rymxiptdskhnpvbyromq.com
+bndgxvofnwouhtwcbnea.com
+nbeylnmbypoiiwxmhlrt.com
+aprksbosaqqnugkkxwwu.com
+cdjionvneqetyxstwkoj.com
+lcvxabahjpwkjitxtmcd.com
+jdbsjdkmhkppigbmttfp.com
+arwkisndarssjdkmhkpp.com
+igbmtkobjpkdwrlkfwqw.com
+uningssimhvotltbdsws.com
+rqcnhmdnfrpeebiohvhn.com
+xnwcundtxtbtsixssddv.com
+sjarfhvphsxylbdsiplu.com
+vpjauysexuqtktdpjqws.com
+mliesawlsrqytfhnhmtw.com
+omobgtrshndsvqnyntjq.com
+jwgpqwueyuuhfinscsmo.com
+aimfpniwpwqkmfdlolbd.com
+eyqecunqtobjldxblfee.com
+biivkbkluauuhutuxefv.com
+dwhwdnumdhdvehbrxlln.com
+fuctcoxsokefetkmimcm.com
+vicudrlwqpxbkdbmcdsb.com
+oewjhvbiivvjpvfvuvka.com
+iyhkxnxvdgxhloxrigfg.com
+lmiledpbsudhfpnuaoch.com
+
+# Reference: https://twitter.com/Racco42/status/1252365091204247556
+# Reference: https://app.any.run/tasks/e1a9d05d-f499-4839-b457-4e9cede501c8/
+
+baatiot.com
+lonehee.com
+maremeo.com
+soceneo.com
+spardanos.com
+surgued.com
+tremood.com
+welefus.com
+
+# Reference: https://twitter.com/reecdeep/status/1252604177852833794
+
+teachertoh.com/wp-content/themes/calliope/wp-front.php
+topspeedfitness.com.my/blog/wp-content/themes/calliope/wp-front.php
+
+# Reference: https://twitter.com/James_inthe_box/status/1252604516991504384
+
+hcmbqvcntd.pw
+
+# Reference: https://twitter.com/p5yb34m/status/1252648679543934976
+
+iawfqecrwohcxnhwtofa.com
+pwkqhdgytsshkoibaake.com
+snnmnkxdhflwgthqismb.com
+wmwifbajxxbcxmucxmlc.com
+yompmepuagwsmxeecqtk.com
+
+# Reference: https://twitter.com/executemalware/status/1252616122488283136
+
+teachertoh.com/wp-content/themes/calliope/wp-front.php
+topspeedfitness.com.my/blog/wp-content/themes/calliope/wp-front.php
+
+# Reference: https://twitter.com/executemalware/status/1252728411912572928
+# Reference: https://pastebin.com/jia92L9d
+
+http://195.2.93.15
+maesimplesmente.com/wp-admin/includes/wp-smart.php
+glsunzdf.casa
+xaprgnve.icu
+ualdfdjoevspjtpilbtb.com
+
+# Reference: https://bazaar.abuse.ch/sample/d63088780e90eda6a7ce286d6b190614f0ea6f1f55c6e6e9d6a30260eb84d03c
+
+gveejlsffxmfjlswjmfm.com
+
+# Reference: https://twitter.com/Racco42/status/1253643478392856576
+# Reference: https://app.any.run/tasks/18cc20c7-d61d-4531-9948-91572d81f631/
+
+coult.org
+rhald.org
+rutom.org
+tilyn.org
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1250043720512274434
+
+xltoogmecoulgkloygal.com
+
+# Reference: https://twitter.com/Racco42/status/1255409164651761667
+
+chorbly.org
+kodray.org
+retualeigh.com
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1257369145177526272
+
+shetkarimarket.com/wp-snapshots/tmp/wp-smart.php
+theislandmen.com/wp-smart.php
+visadvise.com/cgi-bin/s2dhfwe.php
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1257376602394066944
+
+rswtgmhf.pw
+fwgdhdln.icu
+pwnuuhiikmjmkrjeyuxr.com
+
+# Reference: https://twitter.com/malware_traffic/status/1257438530357415937
+
+april30domain.com
+april30x3domain.com
+aftohysmkffhjpjrljee.com
+bblfjlftfhghincgyqke.com
+bblftofqpxnkomjjvyyf.com
+bstpepygxuywdfdukacj.com
+cfrmmlirggjkpinueaon.com
+cjfpbllwcexqpxnkbcxm.com
+covjpgxudajxbotxvcwe.com
+cpuinvhqkucymkjsklhx.com
+dajxbfyxgvsjmibctyys.com
+dukwerbshhkpiarcvkrn.com
+frdbmneytexqystpesej.com
+fyhwkddxonibjdbvymbo.com
+glpntvrkwerbshjmibwe.com
+ijdbmnngwrmbiawfnmjw.com
+irjrljealjumbfvsnahy.com
+ismbklxfpxkweryqnvhq.com
+jtwslqaoorsxqvbhxwhp.com
+ljuvmhxwdokmwebxkcdy.com
+lscxmhaylhskygxwbdnu.com
+lwcckeovaldrbshhkpia.com
+mjabstgnbkpntvtmygtn.com
+pnkomsusnahyarsbkpli.com
+pvlrmtqqbnnmacfxsddo.com
+rqyoliismbiawdlgpamp.com
+rtnqqwmfmajmroxiqgdh.com
+tecgekmkdpwerbppskpl.com
+thjmibwebdnuirjhocns.com
+tperkjvyyfukdgcuhlok.com
+vfcyisijtwgmxhreetmr.com
+wfqakwaaixyhwtofubfm.com
+xhrqdpavwwybewoicjea.com
+xjtmdhcharsffefunepy.com
+
+# Reference: https://twitter.com/reecdeep/status/1257711966401028096
+
+ekhobrand.com
+
+# Reference: https://twitter.com/malware_traffic/status/1257701476455059457
+
+xn--80agatbmcgncccbd9andd6w.xn--p1ai
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1257723521385578498
+
+exukinjyukrglrwqedto.com
+
+# Generic trails
+
+/blocks/gumjf.php
+/js/gritg.php
+/3YUjngR.php
+/87aksjt.php
+/axick.php
+/gravitels.php
+/kjzge.php
+/NlGkb4ivk.php
+/s2dhfwe.php
+/ajt1eg4fh
+/bag4hy
+/deg34g
+/f2f23

@@ -1,0 +1,77 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/Racco42/status/1216993503118577665
+# Reference: https://www.virustotal.com/gui/file/4d7b06f10359312ac6b13883831e725c649665936acedc506be40e954d4b1208/detection
+
+185.140.53.134:7776
+
+# Reference: https://www.virustotal.com/gui/file/4c9b503d9fece2134e97eb34c3bb3847b9deca9ba05df999b59a5fb5e63c26ca/detection
+
+185.140.53.134:9095
+185.140.53.134:9096
+wealthybillza.insidedns.com
+
+# Reference: https://twitter.com/wwp96/status/1224779467215855619
+# Reference: https://app.any.run/tasks/75ddb147-59d7-49a1-a3a0-1c6b7de58f37/
+
+45.147.229.52:7071
+
+# Reference: https://twitter.com/James_inthe_box/status/1227213715860144128
+# Reference: https://pastebin.com/Re5jj5j2
+
+79.134.225.111:8141
+vahlallha.duckdns.org
+
+# Reference: https://twitter.com/VK_Intel/status/1237447871764496388
+# Reference: https://www.virustotal.com/gui/file/0a689281e5c807412fd9fca5f4a2d02f90e149da1ecc16179a09d88fa88eed74/detection
+# Reference: https://www.virustotal.com/gui/file/cd41b2a08b3b38cd8ce7a2420a635bd1d1780bce12218f93ee6f2366a19e2aeb/detection
+
+185.244.30.237:4181
+192.169.69.25:4181
+roboticsnetwork.duckdns.org
+
+# Reference: https://twitter.com/James_inthe_box/status/1247190083825848321
+# Reference: https://twitter.com/James_inthe_box/status/1247191401403564033
+
+hope.doomdns.org
+
+# Reference: https://www.virustotal.com/gui/file/f899a317b88fe6fc9dedcda1620b37c907082223244804df60ca664fc04ff265/detection
+
+105.112.176.133:1759
+
+# Reference: https://www.virustotal.com/gui/file/2a6cfd85bcb241ce4c4c1dcd325d9d85da8ae49a8f721632d319806085818408/detection
+
+216.38.7.237:7310
+
+# Reference: https://twitter.com/James_inthe_box/status/1247280998359789575
+
+franco20.dvrdns.org
+
+# Reference: https://twitter.com/malwrhunterteam/status/1250743756925677569
+
+5.253.114.116:7073
+
+# Reference: https://www.virustotal.com/gui/file/8c7262c3e94a7c143b0c8b76b051f7eef7b8a7e903dee5b1868b0230c19cc725/detection
+
+5.253.114.116:7072
+
+# Reference: https://www.virustotal.com/gui/file/1dfc66968527fbd4c0df2ea34c577a7ce7a2ba9b54ba00be62120cc88035fa65/detection
+
+23.105.131.162:2019
+
+# Reference: https://twitter.com/malwrhunterteam/status/1253290466717687808
+# Reference: https://www.virustotal.com/gui/file/2f370ffe4e15fde26e43812a3809fbaa3a8974c0a7cb6c5677985dbe8e46f782/detection
+
+kiht.felehton.ga
+
+# Reference: https://twitter.com/malwrhunterteam/status/1253345383163613184
+# Reference: https://www.virustotal.com/gui/file/00185cc085f284ece264e3263c7771073a65783c250c5fd9afc7a85ed94acc77/detection
+
+185.19.85.182:7310
+
+# Reference: https://twitter.com/abuse_ch/status/1255135289766363138
+# Reference: https://bazaar.abuse.ch/sample/4723ab5ed01fb642eb602ff59309d4d698e6011145ca1b757bb223b5a67fe159
+
+79.134.225.51:5147
+bhg.canadacentralregistrar.ca
