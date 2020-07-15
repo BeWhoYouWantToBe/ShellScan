@@ -1,7 +1,37 @@
 #!/usr/bin/env python
-# coding=utf-8
-import os  
-import subprocess as sb 
+# coding=utf-8 
+import re
+import os   
+import pdb
+import subprocess as sb    
+from socket import inet_aton
+from struct import unpack
+
+def ip2long(ip_addr):
+    return unpack("!L", inet_aton(ip_addr))[0]
+    
+def is_inner_ip(ip):
+    if ip.startswith('169.254'):
+        return True 
+    else:
+        ip = ip2long(ip)    
+        return ip2long('127.0.0.0') >> 24 == ip >> 24 or ip2long('10.0.0.0') >> 24 == ip >> 24 or ip2long('172.16.0.0') >> 20 == ip >> 20 or ip2long('192.168.0.0') >> 16 == ip >> 16
+
+
+def get_proc_info(pid,ps_info,malicious=False):
+    try: 
+        user = ps_info[0] 
+        start_time = ps_info[8]
+        ps_cmd = ps_info[10]
+        cmdline = sb.Popen("cat /proc/{}/cmdline".format(pid),shell=True,stdout=sb.PIPE).communicate()[0].replace('\x00',' ')
+        cwd = sb.Popen("ls -l /proc/{}/cwd".format(pid),shell=True,stdout=sb.PIPE).communicate()[0].split(' ')[-1]  
+        if malicious:
+            is_malicious = analysis_file('/proc/{}/exe'.format(pid))
+            print("详情：\n 进程启动命令1：{}\n 进程启动命令2: {}\n 进程当前工作目录: {} 进程启动用户: {}\n 进程启动时间: {}\n 命中恶意特征: {}\n".format(ps_cmd,cmdline,cwd,user,start_time,is_malicious))  
+        else:
+            print("详情：\n 进程启动命令1：{}\n 进程启动命令2: {}\n 进程当前工作目录: {} 进程启动用户: {}\n 进程启动时间: {}\n".format(ps_cmd,cmdline,cwd,user,start_time)) 
+    except:
+        pass
 
 def get_malicious_info():
     malicious_info = set()
@@ -51,8 +81,4 @@ def check_shell(content):
         return False
 
 if __name__ == '__main__': 
-    with open('/tmp/shell.txt') as f:
-        for line in f:
-            content = check_shell(line.strip())
-            print(content)
-#    analysis_file('/tmp/install_agent/install_agent.sh') 
+    is_intranet('100.10.10.10')
