@@ -27,9 +27,9 @@ def get_proc_info(pid,ps_info,malicious=False):
         cwd = sb.Popen("ls -l /proc/{}/cwd".format(pid),shell=True,stdout=sb.PIPE).communicate()[0].split(' ')[-1]  
         if malicious:
             is_malicious = analysis_file('/proc/{}/exe'.format(pid))
-            print("详情：\n 进程启动命令1：{}\n 进程启动命令2: {}\n 进程当前工作目录: {} 进程启动用户: {}\n 进程启动时间: {}\n 命中恶意特征: {}\n".format(ps_cmd,cmdline,cwd,user,start_time,is_malicious))  
+            print("  详情：\n 进程启动命令1：{}\n 进程启动命令2: {}\n 进程当前工作目录: {} 进程启动用户: {}\n 进程启动时间: {}\n 命中恶意特征: {}\n".format(ps_cmd,cmdline,cwd,user,start_time,is_malicious))  
         else:
-            print("详情：\n 进程启动命令1：{}\n 进程启动命令2: {}\n 进程当前工作目录: {} 进程启动用户: {}\n 进程启动时间: {}\n".format(ps_cmd,cmdline,cwd,user,start_time)) 
+            print("  详情：\n 进程启动命令1：{}\n 进程启动命令2: {}\n 进程当前工作目录: {} 进程启动用户: {}\n 进程启动时间: {}\n".format(ps_cmd,cmdline,cwd,user,start_time)) 
     except:
         pass
 
@@ -61,7 +61,6 @@ def analysis_file(file):
         malicious_info = get_malicious_info() 
         for malicious in malicious_info:
             if malicious in strings:
-                print("文件: {} 匹配到恶意特征: {}".format(file,malicious))
                 return malicious
         return  
 

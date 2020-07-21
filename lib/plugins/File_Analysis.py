@@ -22,8 +22,10 @@ class File_Analysis:
                     count += 1 
                     results.append(result)
         if 0 < count < 10:
-                print("存在关键命令被更改，请进一步排查，详情:")
-                print(results)  
+            print('  [1]关键命令完整性检测    [ 存在风险 ]')
+            print('  ' + str(results))
+        else:
+            print('  [1]关键命令完整性检测    [ OK ]')
 
     def check_tmp(self):
         tmp_list = ['/tmp/','/var/tmp/','/dev/shm/'] 
@@ -34,7 +36,12 @@ class File_Analysis:
                 else:
                     files = [os.path.join(dir,f) for f in os.listdir(dir) if os.path.isfile(os.path.join(dir,f))]
                     for f in files:
-                        analysis_file(f) 
+                        result = analysis_file(f) 
+                        if result:
+                            print('  [2]临时目录恶意文件检测    [ 存在风险 ]') 
+                            print(result)
+                        else:
+                            print('  [2]临时目录恶意文件检测    [ OK ]')
         except Exception,e:
             print(e)
 
@@ -42,4 +49,3 @@ class File_Analysis:
         print("\n文件安全检测开始")
         self.check_command()
         self.check_tmp()
-        print
