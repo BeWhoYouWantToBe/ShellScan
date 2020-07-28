@@ -61,10 +61,34 @@ class Backdoor_Analysis:
             else:
                 print('  [3]suid权限检测    [ OK ]')
         except Excpetion,e:
-            print(e)
+            print(e) 
+
+    def check_sshkey(self):
+        white_list = ['ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAmEXGvVqupmK8X45RTQqGee2LTNKc1Qv+gpCxdGv8AMKMtBihxbDumllCBmlvQdeTyVqaebnZD9SrgWzSKqKtCCgDHVtok3pUMGKrTiXaOnvm26vu+WVC7e50MXryBXkcwEFT2Mxi607R2jdjqgaf6yihUXHX+HluIJv3yunzOez3sq/ogGEJMtn1lWGY57e0vTv34tikClllDq2w0W885mubKOYpVKGfBFCxyxpyshgxatVdqcKj75hpeFzQgEissKG7Q++eyb72qPDJY3RTltSZhFCh1gLF0THofkF+UR0Zbmeb1q7nSV0A9JIUxpuucfytGdKczpqyE3EQrVehsw==','ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAtqjF//kd2rdvFaQfDkaoYfefwp9NMxG4ANV68nV/YF4iNrUrp9Y+uzZje6KECvIV21QNgt2d4Isk29tFnWrBmu7ZBBDgALnw6oA7cvp9goie1HW59DCgdoLvv+2rPoKY+6oLieLL/ZjpMof0MA3nCGkCESHb/qdvTnf6ozEdVdkvTREdNc4MPdaoqhcTxo5F9+mb2r5nMk2oIRAtIWZXZbmRqIXySdDPLfGNF0sxWxGdeMfmJlsvG1/Zx8GzOlpYKGFzkCvdrqEd3C4yccGNUG1+0jkxE+XUDLfXsHrf7N7dvlMZuFDuay5BXL5KSxecvNhM9FZ2E6pNKFDkrTtfJw==','ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9h01bENBKgDQSZd4VxHcDqHSzoosOGp/+MHiQX9bclXDFAOGR/t+VcTr+uDlZMBmXBSpVUpeKN0VI0/PBXtZowwZp9RZ/xZc5Hc+5oz9FsWpVWRmm0a2A/VzvC4k14xYnbjHn+2r/OhAh2Ou3IV6fnJSuDYg3Xzu4CZQxrOfgGyFD/mRx4EI25aBmCBMjr+EEckxHOoPCYjP0VZSnmUvIxT1Aft3sLTJ/xAS0pVK4meKG5P5M+SYKvGwytehaMhiyhNMBhxpmZ/83gg3D61s6STflA5HzSFDU+qs34/oMEfOIEEVGbTUfOYHtg2kOSK0OdYebKEIgbyv0K50rcayX']
+        try:
+            if os.path.exists('/root/.ssh/authorized_keys'):
+                with open('/root/.ssh/authorized_keys') as f:
+                    for line in f:
+                        l = line.split()[0] + ' ' + line.split()[1]
+                        if l in white_list:
+                            continue
+                        else:
+                            print('  [4]SSH公钥检测    [ 存在风险 ]')
+                            print('  请确认以下公钥是否合法:')
+                            print('  {}'.format(line))
+            else:
+                print('  [4]SSH公钥检测    [ OK ]')
+                return 0  
+        except:
+            print('SSH公钥检测错误')
+            pass
+
+
+
 
     def run(self):
         print('\n常见后门检测开始')
         self.check_cron()
         self.check_SSHwrapper()
         self.check_setuid()
+        self.check_sshkey()

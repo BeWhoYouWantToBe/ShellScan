@@ -6,7 +6,7 @@ from lib.common import *
 
 class Log_Analysis:
     def __init__(self): 
-        self.ssh_log = sb.Popen('grep "Accepted password" /var/log/secure*',shell=True,stdout=sb.PIPE).communicate()[0].strip().split('\n')
+        self.ssh_log = sb.Popen('grep "Accepted" /var/log/secure*',shell=True,stdout=sb.PIPE).communicate()[0].strip().split('\n')
 
     def check_ip(self):
         risk = 0
