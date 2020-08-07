@@ -12,7 +12,10 @@ class Log_Analysis:
         risk = 0
         for log in self.ssh_log:
             ip = log.split()[8]
-            intranet = is_inner_ip(ip)
+            try:
+                intranet = is_inner_ip(ip)
+            except:
+                intranet = 1
             if not intranet:
                 print('  [1]外网IP成功登录检测    [ 存在风险 ]')
                 print("存在外网IP成功登录SSH，请进一步排查，详情：")

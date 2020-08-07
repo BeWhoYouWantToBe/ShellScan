@@ -5,7 +5,10 @@ from __future__ import unicode_literals
 from lib.common import analysis_file,get_proc_info
 import pdb  
 import subprocess as sb 
-import os
+import os 
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 class Proc_Analysis:
     def __init__(self):
