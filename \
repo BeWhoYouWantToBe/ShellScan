@@ -11,45 +11,43 @@ class Backdoor_Analysis:
     def check_init(self):
         risk = 0
         try:
-            init_path = ['/etc/init.d/', '/etc/rc.d/', '/etc/rc.local', '/usr/local/etc/rc.d','/usr/local/etc/rc.local', '/etc/conf.d/local.start', '/etc/inittab', '/etc/systemd/system']
-            for path in init_path:
-                if not os.path.exists(path):
-                    continue
+            cron_path = ['/etc/crontab','/var/spool/cron/', '/etc/cron.d/', '/etc/cron.daily/', '/etc/cron.weekly/','/etc/cron.hourly/', '/etc/cron.monthly/']
+            for path in cron_path:
+                if not os.path.exists(path): continue
                 if os.path.isfile(path):
                     f = open(path)
                     for line in f.readlines():
                         result = check_shell(line)
                         if result:
                             risk = 1
-                            print('  [5]开机自启检测    [ 存在风险 ]')
-                            print('  检测到开机自启文件: {} 中存在反弹SHELL: {}，请进一步确认'.format(path,result.strip()))
+                            print('  [1]定时任务检测    [ 存在风险 ]')
+                            print('  检测到定时任务文件: {} 中存在反弹SHELL: {}，请进一步确认'.format(path,result.strip()))
                         else:
                             for i in self.suspicious_command:
                                 if i in line:
                                     risk = 1
-                                    print('  [5]开机自启检测    [ 存在风险 ]')
-                                    print '  检测到开机自启文件: {} 中存在敏感命令: {}, 请进一步确认'.format(path,i)
+                                    print('  [1]定时任务检测    [ 存在风险 ]')
+                                    print '  检测到定时任务文件: {} 中存在敏感命令: {}, 请进一步确认'.format(path,i)
                                     break  
                 else:
-                    for file in os.listdir(path):
-                        file_path = '{}{}'.format(path,file)
-                        if os.path.isfile(path):
-                            f = open(file_path)
-                            for line in f.readlines():
-                                result = check_shell(line)
-                                if result:
-                                    risk = 1
-                                    print('  [5]开机自启检测    [ 存在风险 ]')
-                                    print('  检测到开机自启文件: {} 中存在反弹SHELL: {}，请进一步确认'.format(path,result.strip()))
-                                else:
-                                    for i in self.suspicious_command:
-                                        if i in line:
-                                            risk = 1
-                                            print('  [5]开机自启检测    [ 存在风险 ]')
-                                            print '  检测到开机自启文件: {} 中存在敏感命令: {}, 请进一步确认'.format(path,i)
-                                            break  
+                    for file in os.listdir(cron_dir):
+                        path = cron_dir + file 
+                        f = open(path)
+                        for line in f.readlines():
+                            result = check_shell(line)
+                            if result:
+                                risk = 1
+                                print('  [1]定时任务检测    [ 存在风险 ]')
+                                print('  检测到定时任务文件: {} 中存在反弹SHELL: {}，请进一步确认'.format(path,result.strip()))
+                            else:
+                                for i in self.suspicious_command:
+                                    if i in line:
+                                        risk = 1
+                                        print('  [1]定时任务检测    [ 存在风险 ]')
+                                        print '  检测到定时任务文件: {} 中存在敏感命令: {}, 请进一步确认'.format(path,i)
+                                        break  
             if not risk:
-                print('  [5]开机自启检测   [ OK ] ')
+                print('  [1]定时任务检测   [ OK ] ')
 
         except Exception,e:
             print(e)
@@ -78,25 +76,24 @@ class Backdoor_Analysis:
                                     print '  检测到定时任务文件: {} 中存在敏感命令: {}, 请进一步确认'.format(path,i)
                                     break  
                 else:
-                    for file in os.listdir(path):
-                        file_path = path + file 
-                        if os.path.isfile(file_path):
-                            f = open(file_path)
-                            for line in f.readlines():
-                                result = check_shell(line)
-                                if result:
-                                    risk = 1
-                                    print('  [1]定时任务检测    [ 存在风险 ]')
-                                    print('  检测到定时任务文件: {} 中存在反弹SHELL: {}，请进一步确认'.format(path,result.strip()))
-                                else:
-                                    for i in self.suspicious_command:
-                                        if i in line:
-                                            risk = 1
-                                            print('  [1]定时任务检测    [ 存在风险 ]')
-                                            print '  检测到定时任务文件: {} 中存在敏感命令: {}, 请进一步确认'.format(path,i)
-                                            break  
-                if not risk:
-                    print('  [1]定时任务检测   [ OK ] ')
+                    for file in os.listdir(cron_dir):
+                        path = cron_dir + file 
+                        f = open(path)
+                        for line in f.readlines():
+                            result = check_shell(line)
+                            if result:
+                                risk = 1
+                                print('  [1]定时任务检测    [ 存在风险 ]')
+                                print('  检测到定时任务文件: {} 中存在反弹SHELL: {}，请进一步确认'.format(path,result.strip()))
+                            else:
+                                for i in self.suspicious_command:
+                                    if i in line:
+                                        risk = 1
+                                        print('  [1]定时任务检测    [ 存在风险 ]')
+                                        print '  检测到定时任务文件: {} 中存在敏感命令: {}, 请进一步确认'.format(path,i)
+                                        break  
+            if not risk:
+                print('  [1]定时任务检测   [ OK ] ')
 
         except Exception,e:
             print(e)
@@ -155,4 +152,3 @@ class Backdoor_Analysis:
         self.check_SSHwrapper()
         self.check_setuid()
         self.check_sshkey()
-        self.check_init()
